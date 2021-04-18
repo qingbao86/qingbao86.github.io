@@ -1,419 +1,297 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/showcase/hugo/hugo-theme-zzo/</loc>
+    <loc>https://yubaoliu.github.io/passive-income/en/showcase/hugo/hugo-theme-zzo/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/showcase/hugo/hugo-theme-zdoc/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/showcase/hugo/hugo-theme-zdoc/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/publication/article/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/publication/book/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/publication/misc/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/publication/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/posts/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://yubaoliu.github.io:1313/passive-income/ko/posts/"
+                href="https://yubaoliu.github.io/passive-income/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yubaoliu.github.io:1313/passive-income/en/posts/"
+                href="https://yubaoliu.github.io/passive-income/en/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/tags/shortcode/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/posts/shortcodes/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/tags/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/publication/article/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/publication/book/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/publication/misc/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/publication/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/posts/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://yubaoliu.github.io:1313/passive-income/ko/tags/"
+                href="https://yubaoliu.github.io/passive-income/ko/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yubaoliu.github.io:1313/passive-income/en/tags/"
+                href="https://yubaoliu.github.io/passive-income/en/posts/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/showcase/hugo/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/tags/shortcode/</loc>
+    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/posts/shortcodes/</loc>
+    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/tags/</loc>
+    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://yubaoliu.github.io/passive-income/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yubaoliu.github.io/passive-income/en/tags/"
+                />
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/showcase/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/categories/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/categories/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://yubaoliu.github.io:1313/passive-income/ko/categories/"
+                href="https://yubaoliu.github.io/passive-income/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yubaoliu.github.io:1313/passive-income/en/categories/"
+                href="https://yubaoliu.github.io/passive-income/en/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/tags/css/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/tags/css/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/tags/html/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/tags/html/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/tags/markdown/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/tags/markdown/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/posts/markdown-syntax/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/posts/markdown-syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/series/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/series/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://yubaoliu.github.io:1313/passive-income/ko/series/"
+                href="https://yubaoliu.github.io/passive-income/ko/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yubaoliu.github.io:1313/passive-income/en/series/"
+                href="https://yubaoliu.github.io/passive-income/en/series/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/categories/syntax/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/categories/syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/tags/themes/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/tags/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/categories/themes/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/categories/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/series/themes-guide/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/series/themes-guide/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/tags/privacy/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/tags/privacy/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/posts/rich-content/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/posts/rich-content/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/tags/shortcodes/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/tags/shortcodes/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/tags/hugo/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/tags/hugo/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/categories/hugo/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/categories/hugo/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/posts/syntax-highlight/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/posts/syntax-highlight/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/posts/math-typesetting/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/posts/math-typesetting/</loc>
     <lastmod>2019-12-17T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/tags/amoji/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/tags/amoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/tags/bamoji/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/tags/bamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/tags/emoji/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/tags/emoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/posts/emoji-support/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/posts/emoji-support/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/tags/gamoji/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/tags/gamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/tags/namoji/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/tags/namoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/categories/diagram/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/categories/diagram/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/posts/test-viz/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/posts/test-viz/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/posts/test-wavedrom/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/posts/test-wavedrom/</loc>
     <lastmod>2019-11-18T18:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/posts/test-chartjs/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/posts/test-chartjs/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/posts/test-js-sequence-diagrams/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/posts/test-js-sequence-diagrams/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/tags/diagram/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/tags/diagram/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/posts/test-mermaid/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/posts/test-mermaid/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/categories/math/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/categories/math/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/posts/test-mathjax/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/posts/test-mathjax/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/posts/test-katex/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/posts/test-katex/</loc>
     <lastmod>2019-11-15T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/posts/test-flowchart/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/posts/test-flowchart/</loc>
     <lastmod>2019-11-14T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/gallery/cartoon/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/gallery/cartoon/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://yubaoliu.github.io:1313/passive-income/ko/gallery/cartoon/"
+                href="https://yubaoliu.github.io/passive-income/ko/gallery/cartoon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yubaoliu.github.io:1313/passive-income/en/gallery/cartoon/"
+                href="https://yubaoliu.github.io/passive-income/en/gallery/cartoon/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/gallery/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/gallery/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://yubaoliu.github.io:1313/passive-income/ko/gallery/"
+                href="https://yubaoliu.github.io/passive-income/ko/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yubaoliu.github.io:1313/passive-income/en/gallery/"
+                href="https://yubaoliu.github.io/passive-income/en/gallery/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/gallery/photo/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/gallery/photo/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://yubaoliu.github.io:1313/passive-income/ko/gallery/photo/"
+                href="https://yubaoliu.github.io/passive-income/ko/gallery/photo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yubaoliu.github.io:1313/passive-income/en/gallery/photo/"
+                href="https://yubaoliu.github.io/passive-income/en/gallery/photo/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/presentation/dir/fourth/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/presentation/dir/fourth/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/presentation/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/presentation/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/presentation/third/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/presentation/third/</loc>
     <lastmod>2019-10-30T20:46:30+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/presentation/second/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/presentation/second/</loc>
     <lastmod>2019-10-30T20:45:24+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/presentation/first/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/presentation/first/</loc>
     <lastmod>2019-10-30T19:45:20+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/archive/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://yubaoliu.github.io:1313/passive-income/ko/archive/"
+                href="https://yubaoliu.github.io/passive-income/ko/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yubaoliu.github.io:1313/passive-income/en/archive/"
+                href="https://yubaoliu.github.io/passive-income/en/archive/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://yubaoliu.github.io:1313/passive-income/ko/"
+                href="https://yubaoliu.github.io/passive-income/ko/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yubaoliu.github.io:1313/passive-income/en/"
+                href="https://yubaoliu.github.io/passive-income/en/about/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://yubaoliu.github.io:1313/passive-income/ko/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://yubaoliu.github.io:1313/passive-income/en/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/publication/article/article_any_folder_name_1/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/publication/article/article_any_folder_name_1/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/publication/book/book_any_folder_name_1/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/publication/book/book_any_folder_name_1/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/publication/misc/misc_any_folder_name_1/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/publication/misc/misc_any_folder_name_1/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yubaoliu.github.io:1313/passive-income/en/tags/index/</loc>
+  </url><url>
+    <loc>https://yubaoliu.github.io/passive-income/en/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://yubaoliu.github.io:1313/passive-income/ko/tags/index/"
+                href="https://yubaoliu.github.io/passive-income/ko/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yubaoliu.github.io:1313/passive-income/en/tags/index/"
+                href="https://yubaoliu.github.io/passive-income/en/tags/index/"
                 />
   </url>
-  
 </urlset>

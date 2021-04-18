@@ -1,1 +1,2 @@
-hugo server --renderToDisk --disableFastRender -t zzo -b  "https://yubaoliu.github.io/passive-income/"
+#hugo server --renderToDisk --disableFastRender -t zzo --gc  -v -w
+hugo --gc -v -t zzo

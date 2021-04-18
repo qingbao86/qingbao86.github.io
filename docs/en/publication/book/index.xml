@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>book on Hugo Zzo Theme</title>
-    <link>https://yubaoliu.github.io:1313/passive-income/en/publication/book/</link>
+    <link>https://yubaoliu.github.io/passive-income/en/publication/book/</link>
     <description>Recent content in book on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="https://yubaoliu.github.io:1313/passive-income/en/publication/book/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://yubaoliu.github.io/passive-income/en/publication/book/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Donec vel ipsum vulputate, dapibus magna quis</title>
-        <link>https://yubaoliu.github.io:1313/passive-income/en/publication/book/book_any_folder_name_1/</link>
+        <link>https://yubaoliu.github.io/passive-income/en/publication/book/book_any_folder_name_1/</link>
         <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Thu, 01 Jun 2017 00:00:00 +0000</atom:modified>
-        <guid>https://yubaoliu.github.io:1313/passive-income/en/publication/book/book_any_folder_name_1/</guid>
+        <guid>https://yubaoliu.github.io/passive-income/en/publication/book/book_any_folder_name_1/</guid>
         <description></description>
         
         <dc:creator>zzossig</dc:creator>

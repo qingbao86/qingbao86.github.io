@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Hugo Zzo Theme</title>
-    <link>https://yubaoliu.github.io:1313/passive-income/ko/tags/</link>
+    <link>https://yubaoliu.github.io/passive-income/ko/tags/</link>
     <description>Recent content in Tags on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -15,17 +15,17 @@
     <webMaster>zzossig@gmail.com (zzossig)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://yubaoliu.github.io:1313/passive-income/ko/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://yubaoliu.github.io/passive-income/ko/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>index</title>
-        <link>https://yubaoliu.github.io:1313/passive-income/ko/tags/index/</link>
+        <link>https://yubaoliu.github.io/passive-income/ko/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
-        <guid>https://yubaoliu.github.io:1313/passive-income/ko/tags/index/</guid>
+        <guid>https://yubaoliu.github.io/passive-income/ko/tags/index/</guid>
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
