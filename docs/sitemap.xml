@@ -13,6 +13,16 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/passive-income/posts/</loc>
+    <lastmod>2021-04-18T17:14:13+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/passive-income/posts/mobile-miner/</loc>
+    <lastmod>2021-04-18T17:14:13+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/passive-income/publication/article/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
@@ -33,26 +43,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/passive-income/posts/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/tags/shortcode/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/posts/shortcodes/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/tags/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/passive-income/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
   </url>
@@ -60,121 +50,6 @@
   <url>
     <loc>http://localhost:1313/passive-income/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/categories/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/tags/css/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/tags/html/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/tags/markdown/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/posts/markdown-syntax/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/series/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/categories/syntax/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/tags/themes/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/categories/themes/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/series/themes-guide/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/tags/privacy/</loc>
-    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/posts/rich-content/</loc>
-    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/tags/shortcodes/</loc>
-    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/tags/hugo/</loc>
-    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/categories/hugo/</loc>
-    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/posts/syntax-highlight/</loc>
-    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/posts/math-typesetting/</loc>
-    <lastmod>2019-12-17T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/tags/amoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/tags/bamoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/tags/emoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/posts/emoji-support/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/tags/gamoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/passive-income/tags/namoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url>
   
   <url>
@@ -248,7 +123,19 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/passive-income/categories/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/passive-income/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/passive-income/series/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/passive-income/tags/</loc>
   </url>
   
 </urlset>

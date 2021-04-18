@@ -56,14 +56,14 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "Yubao"
+myname = "Qingbao"
 email = "yubaoshare@gmail.com"
 whoami = ""
 bioImageUrl = ""
 useGravatar = false
 location = "Aichi, Japan"
 organization = ""
-link = "www.ybliu.com"
+link = "https://yubaoliu.github.io/passive-income/"
 
 # sidebar
 enableBio = true

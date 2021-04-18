@@ -7,4 +7,3 @@ description: "cartoon gallery"
 image: images/feature2/bam.png
 ---
 
-Sample images from [Pixabay](https://pixabay.com)

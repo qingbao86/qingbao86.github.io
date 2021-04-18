@@ -11,8 +11,8 @@
     <description>Recent content in Galleries on Passive Income</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>yubaoshare@gmail.com (Yubao)</managingEditor>
-    <webMaster>yubaoshare@gmail.com (Yubao)</webMaster>
+    <managingEditor>yubaoshare@gmail.com (Qingbao)</managingEditor>
+    <webMaster>yubaoshare@gmail.com (Qingbao)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 31 Oct 2019 10:20:16 +0900</lastBuildDate>
     
@@ -24,12 +24,12 @@
         <title>Cartoon</title>
         <link>http://localhost:1313/passive-income/gallery/cartoon/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        <author>yubaoshare@gmail.com (Yubao)</author>
+        <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>http://localhost:1313/passive-income/gallery/cartoon/</guid>
-        <description>Sample images from Pixabay</description>
+        <description></description>
         
-        <dc:creator>Yubao</dc:creator>
+        <dc:creator>Qingbao</dc:creator>
         <media:content url="http://localhost:1313/passive-income/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -42,12 +42,12 @@
         <title>Photo</title>
         <link>http://localhost:1313/passive-income/gallery/photo/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        <author>yubaoshare@gmail.com (Yubao)</author>
+        <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>http://localhost:1313/passive-income/gallery/photo/</guid>
         <description>Sample images from Pixabay</description>
         
-        <dc:creator>Yubao</dc:creator>
+        <dc:creator>Qingbao</dc:creator>
         <media:content url="http://localhost:1313/passive-income/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
