@@ -2,8 +2,6 @@ baseURL = "https://yubaoliu.github.io/passive-income/"
 title = "Passive Income"
 theme = "zzo"
 
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
 summaryLength = 70
