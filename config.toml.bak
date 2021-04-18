@@ -1,5 +1,3 @@
-baseURL = "https://yubaoliu.github.io/passive-income/"
-title = "Passive Income"
-theme = "zzo"
-
-publishDir = "docs"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"

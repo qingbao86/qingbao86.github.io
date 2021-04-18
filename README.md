@@ -1,11 +1,5 @@
 
-# Theme
-- zzo
-
-# Usage
-## Run
-
+# Build
 ```sh
-hugo server --renderToDisk
-hugo server --renderToDisk --disableFastRender -t zzo
+hugo server --renderToDisk --disableFastRender -t zzo -b  "https://yubaoliu.github.io/passive-income/"
 ```

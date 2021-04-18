@@ -1,11 +1,13 @@
-logoText = "Passive Income"
+
+baseURL = "https://yubaoliu.github.io/passive-income/"
+logoText = "Zzo"
 logoType = "short" # long, short
-description = "Passive income site."
+description = "The Zzo theme for Hugo example site."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
-themecolor = "light"
+themecolor = ""
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
 notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
@@ -56,14 +58,14 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "Qingbao"
-email = "yubaoshare@gmail.com"
-whoami = ""
+myname = "zzossig"
+email = "zzossig@gmail.com"
+whoami = "Web Developer"
 bioImageUrl = ""
 useGravatar = false
-location = "Aichi, Japan"
-organization = ""
-link = "https://yubaoliu.github.io/passive-income/"
+location = "Seoul, Korea"
+organization = "Hugo"
+link = "https://zzossig.io/ko"
 
 # sidebar
 enableBio = true
@@ -157,13 +159,14 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "yubaoshare@gmail.com"
+  email = "mailto:your@email.com"
   phone = ""
-  facebook = ""
-  twitter = "https://twitter.com/yubao_liu"
-  github = ""
+  facebook = "http://example.org/"
+  twitter = "http://example.org/"
+  github = "https://github.com/zzossig/hugo-theme-zzo"
   stack-overflow = ""
   instagram = ""
+  google-plus = ""
   youtube = ""
   medium = ""
   tumblr = ""
