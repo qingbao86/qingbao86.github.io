@@ -2,7 +2,9 @@ baseURL = "https://yubaoliu.github.io/passive-income/"
 title = "Passive Income"
 theme = "zzo"
 
-hasCJKLanguage = true
+publishDir = "docs"
+
+#hasCJKLanguage = true
 
 summaryLength = 70
 buildFuture = true
