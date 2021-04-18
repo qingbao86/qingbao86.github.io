@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Passive Income Website"
+theme = "zzo"
+
+publishDir = "docs"
