@@ -7,5 +7,5 @@
 
 ```sh
 hugo server --renderToDisk
-hugo server --renderToDisk --disableFastRender -t Blonde
+hugo server --renderToDisk --disableFastRender -t zzo
 ```

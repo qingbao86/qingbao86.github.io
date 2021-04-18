@@ -3,106 +3,106 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/ko/ko.bak/</loc>
+    <loc>http://localhost:1313/passive-income/ko/ko.bak/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/ko/ko.bak/archive/</loc>
+    <loc>http://localhost:1313/passive-income/ko/ko.bak/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/ko/</loc>
+    <loc>http://localhost:1313/passive-income/ko/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="http://localhost:1313/passive-income/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/"
+                href="http://localhost:1313/passive-income/ko/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/ko/ko.bak/about/</loc>
+    <loc>http://localhost:1313/passive-income/ko/ko.bak/about/</loc>
     <lastmod>2019-10-09T11:44:14+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/ko/ko.bak/gallery/photo/</loc>
+    <loc>http://localhost:1313/passive-income/ko/ko.bak/gallery/photo/</loc>
     <lastmod>2018-10-12T10:20:16+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/ko/ko.bak/gallery/cartoon/</loc>
+    <loc>http://localhost:1313/passive-income/ko/ko.bak/gallery/cartoon/</loc>
     <lastmod>2018-10-11T10:20:16+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/ko/en/</loc>
+    <loc>http://localhost:1313/passive-income/ko/en/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/ko/categories/</loc>
+    <loc>http://localhost:1313/passive-income/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="http://localhost:1313/passive-income/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/categories/"
+                href="http://localhost:1313/passive-income/ko/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/ko/tags/index/</loc>
+    <loc>http://localhost:1313/passive-income/ko/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/index/"
+                href="http://localhost:1313/passive-income/en/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/tags/index/"
+                href="http://localhost:1313/passive-income/ko/tags/index/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/ko/ko.bak/posts/</loc>
+    <loc>http://localhost:1313/passive-income/ko/ko.bak/posts/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/ko/series/</loc>
+    <loc>http://localhost:1313/passive-income/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/series/"
+                href="http://localhost:1313/passive-income/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/series/"
+                href="http://localhost:1313/passive-income/ko/series/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/ko/tags/</loc>
+    <loc>http://localhost:1313/passive-income/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="http://localhost:1313/passive-income/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/tags/"
+                href="http://localhost:1313/passive-income/ko/tags/"
                 />
   </url>
   

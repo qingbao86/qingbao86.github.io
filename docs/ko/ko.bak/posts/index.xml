@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Posts on Passive Income</title>
-    <link>http://localhost:1313/ko/ko.bak/posts/</link>
+    <link>http://localhost:1313/passive-income/ko/ko.bak/posts/</link>
     <description>Recent content in Posts on Passive Income</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -15,7 +15,7 @@
     <webMaster>yubaoshare@gmail.com (Yubao)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://localhost:1313/ko/ko.bak/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/passive-income/ko/ko.bak/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
       

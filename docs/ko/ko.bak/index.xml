@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Passive Income</title>
-    <link>http://localhost:1313/ko/ko.bak/</link>
+    <link>http://localhost:1313/passive-income/ko/ko.bak/</link>
     <description>Recent content on Passive Income</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/ko/ko.bak/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/passive-income/ko/ko.bak/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Archive</title>
-        <link>http://localhost:1313/ko/ko.bak/archive/</link>
+        <link>http://localhost:1313/passive-income/ko/ko.bak/archive/</link>
         <pubDate>Sat, 19 Oct 2019 11:44:14 +0900</pubDate>
         <author>yubaoshare@gmail.com (Yubao)</author>
         <atom:modified>Sat, 19 Oct 2019 11:44:14 +0900</atom:modified>
-        <guid>http://localhost:1313/ko/ko.bak/archive/</guid>
+        <guid>http://localhost:1313/passive-income/ko/ko.bak/archive/</guid>
         <description>archive page</description>
         
         <dc:creator>Yubao</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>About</title>
-        <link>http://localhost:1313/ko/ko.bak/about/</link>
+        <link>http://localhost:1313/passive-income/ko/ko.bak/about/</link>
         <pubDate>Wed, 09 Oct 2019 11:44:14 +0900</pubDate>
         <author>yubaoshare@gmail.com (Yubao)</author>
         <atom:modified>Wed, 09 Oct 2019 11:44:14 +0900</atom:modified>
-        <guid>http://localhost:1313/ko/ko.bak/about/</guid>
+        <guid>http://localhost:1313/passive-income/ko/ko.bak/about/</guid>
         <description></description>
         
         <dc:creator>Yubao</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>Photo</title>
-        <link>http://localhost:1313/ko/ko.bak/gallery/photo/</link>
+        <link>http://localhost:1313/passive-income/ko/ko.bak/gallery/photo/</link>
         <pubDate>Fri, 12 Oct 2018 10:20:16 +0900</pubDate>
         <author>yubaoshare@gmail.com (Yubao)</author>
         <atom:modified>Fri, 12 Oct 2018 10:20:16 +0900</atom:modified>
-        <guid>http://localhost:1313/ko/ko.bak/gallery/photo/</guid>
+        <guid>http://localhost:1313/passive-income/ko/ko.bak/gallery/photo/</guid>
         <description></description>
         
         <dc:creator>Yubao</dc:creator>
@@ -76,11 +76,11 @@
       
       <item>
         <title>Cartoon</title>
-        <link>http://localhost:1313/ko/ko.bak/gallery/cartoon/</link>
+        <link>http://localhost:1313/passive-income/ko/ko.bak/gallery/cartoon/</link>
         <pubDate>Thu, 11 Oct 2018 10:20:16 +0900</pubDate>
         <author>yubaoshare@gmail.com (Yubao)</author>
         <atom:modified>Thu, 11 Oct 2018 10:20:16 +0900</atom:modified>
-        <guid>http://localhost:1313/ko/ko.bak/gallery/cartoon/</guid>
+        <guid>http://localhost:1313/passive-income/ko/ko.bak/gallery/cartoon/</guid>
         <description></description>
         
         <dc:creator>Yubao</dc:creator>
@@ -94,11 +94,11 @@
       
       <item>
         <title>Posts</title>
-        <link>http://localhost:1313/ko/ko.bak/posts/</link>
+        <link>http://localhost:1313/passive-income/ko/ko.bak/posts/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>yubaoshare@gmail.com (Yubao)</author>
         
-        <guid>http://localhost:1313/ko/ko.bak/posts/</guid>
+        <guid>http://localhost:1313/passive-income/ko/ko.bak/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>

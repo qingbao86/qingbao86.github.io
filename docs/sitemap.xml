@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>http://localhost:1313/ko/sitemap.xml</loc>
+	   	<loc>http://localhost:1313/passive-income/ko/sitemap.xml</loc>
 		
 	   	<lastmod>2019-10-19T11:44:14+09:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>http://localhost:1313/en/sitemap.xml</loc>
+	   	<loc>http://localhost:1313/passive-income/en/sitemap.xml</loc>
 		
 	   	<lastmod>2020-03-05T14:08:48+00:00</lastmod>
 		
