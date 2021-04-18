@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Posts on Hugo Zzo Theme</title>
+    <link>https://yubaoliu.github.io/passive-income/posts/</link>
+    <description>Recent content in Posts on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 18 Apr 2021 17:14:13 +0900</lastBuildDate>
+    
+        <atom:link href="https://yubaoliu.github.io/passive-income/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>手机挖矿</title>
+        <link>https://yubaoliu.github.io/passive-income/posts/mobile-miner/</link>
+        <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Sun, 18 Apr 2021 17:14:13 +0900</atom:modified>
+        <guid>https://yubaoliu.github.io/passive-income/posts/mobile-miner/</guid>
+        <description>免费手机挖矿平台总结 每隔一段时间登陆或激活一次 免费 不建议充值 使用的邀请码或的邀请链接注册大都会有奖励,互惠互利 如果链接打不开的话，尝试使用外</description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

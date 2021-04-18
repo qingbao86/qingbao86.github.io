@@ -1,5 +1,5 @@
 
-baseURL = "https://yubaoliu.github.io/passive-income/"
+#baseURL = "https://yubaoliu.github.io/passive-income/"
 logoText = "Zzo"
 logoType = "short" # long, short
 description = "The Zzo theme for Hugo example site."
