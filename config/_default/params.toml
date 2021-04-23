@@ -1,8 +1,8 @@
 
 #baseURL = "https://yubaoliu.github.io/passive-income/"
-logoText = "Zzo"
+logoText = "Passive Income"
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
+description = "Earn money freely."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/

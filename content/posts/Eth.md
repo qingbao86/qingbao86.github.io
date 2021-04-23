@@ -1,6 +1,7 @@
 ---
 title: "免费挖ETH"
 date: 2021-04-18T17:14:13+09:00
+tags:  ["ETH"]
 draft: false
 ---
 

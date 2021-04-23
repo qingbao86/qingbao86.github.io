@@ -1,6 +1,7 @@
 ---
 title: "手机挖矿"
 date: 2021-04-18T17:14:13+09:00
+tags: ["手机挖矿"]
 draft: false
 ---
 
@@ -25,7 +26,7 @@ draft: false
 - Midoin homepage: https://midoin.link/6DWe
 - invitation code (邀请码): yubaoliu
 
-## Storm Brain
+## Storm Gain
 - 免费挖比特币
 - app.stormgain: https://app.stormgain.com/friend/BNS32412573
 

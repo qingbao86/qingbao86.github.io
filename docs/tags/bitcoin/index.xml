@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Bitcoin on Hugo Zzo Theme</title>
+    <link>https://yubaoliu.github.io/passive-income/tags/bitcoin/</link>
+    <description>Recent content in Bitcoin on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yubaoshare@gmail.com (Qingbao)</managingEditor>
+    <webMaster>yubaoshare@gmail.com (Qingbao)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 18 Apr 2021 17:14:13 +0900</lastBuildDate>
+    
+        <atom:link href="https://yubaoliu.github.io/passive-income/tags/bitcoin/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>挖Bitcoin</title>
+        <link>https://yubaoliu.github.io/passive-income/posts/bitcoin/</link>
+        <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
+        <author>yubaoshare@gmail.com (Qingbao)</author>
+        <atom:modified>Sun, 18 Apr 2021 17:14:13 +0900</atom:modified>
+        <guid>https://yubaoliu.github.io/passive-income/posts/bitcoin/</guid>
+        <description>Storm Gain 免费挖比特币 app.stormgain: https://app.stormgain.com/friend/BNS32412573 freemining 免费挖比特币 link: https://freemining.co/1496148</description>
+        
+        <dc:creator>Qingbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Bitcoin</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
