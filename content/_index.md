@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - Passive Income
     subtitle:
-      - The world’s fastest framework for building websites
+      - 免费挖矿,实现财务自由
     titleColor: 
     titleShadow: true
     titleFontSize: 44
