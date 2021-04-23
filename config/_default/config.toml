@@ -1,5 +1,5 @@
 baseURL = "https://yubaoliu.github.io/passive-income/"
-title = "Hugo Zzo Theme"
+title = "Passive Income"
 theme = "zzo"
 
 publishDir = "docs"
