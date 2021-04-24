@@ -16,4 +16,18 @@ draft: false
 ## cashmining
 - http://cashmining.xyz/?ref=95502
 
+## 快手极速版
 
+℉Y1OhxXVwm_AO₤
+http://s5j.net/bi6g3
+微信制开复打
+
+填我的码：459816666
+
+
+## Current
+- Hey, I just gifted you points on the Current Cash Rewards app. Click on my link and make up to $600 a year!
+- https://crrnt.me/YAO1vbv5Hfb
+- 听音乐赚钱的软件
+- 可能只能在海外使用
+- 通过Paypal取现
