@@ -160,9 +160,9 @@ commento = false
 
 [socialOptions]
   email = "yubaoshare@gmail.com"
+  twitter = "twitter.com/home"
   phone = ""
   facebook = ""
-  twitter = "https://twitter.com/home"
   github = ""
   stack-overflow = ""
   instagram = ""
