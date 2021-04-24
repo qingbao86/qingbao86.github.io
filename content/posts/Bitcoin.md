@@ -17,4 +17,14 @@ draft: false
 - Cryptotabbrowser: https://cryptotabbrowser.com/20813686
 -  一个免费挖比特币的浏览器，支持Windows, MacOS, Android...
 
+## free bitcoin
+- https://freebitco.in/?r=41641578
+- 通过抽奖领取比特币
+- 每隔一小时领取一次
+
+## cryptoplace
+- https://cryptoplace.cloud/?ref=yubaoshare
+
+## coinmines
+- https://www.coinmines.online/?ref=210418110955
 

@@ -1,5 +1,5 @@
 ---
-title: "云挖矿平台"
+title: "多币种云挖矿平台"
 date: 2021-04-18T17:14:13+09:00
 tags: ["miner"]
 draft: false
@@ -7,16 +7,13 @@ draft: false
 
 ## Rollercoin
 - https://rollercoin.com/?r=knl79zam
+- BTC, DOGE, ETH, ...
 
 ## coin-farm
 - https://coin-farm.com/?en=qingbao
 
-## Cryptotab browser
-- Cryptotabbrowser: https://cryptotabbrowser.com/20813686
--  一个免费挖比特币的浏览器，支持Windows, MacOS, Android...
-
-## cashmining
-- http://cashmining.xyz/?ref=95502
-
+## cryptoplace
+- https://cryptoplace.cloud/?ref=yubaoshare
+- 同时挖XMR, BCH, LTC, BTC, DOGE, TRX
 
 
