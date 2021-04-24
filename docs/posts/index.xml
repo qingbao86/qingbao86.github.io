@@ -14,20 +14,20 @@
     <managingEditor>yubaoshare@gmail.com (Qingbao)</managingEditor>
     <webMaster>yubaoshare@gmail.com (Qingbao)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 18 Apr 2021 17:14:13 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 25 Apr 2021 17:14:13 +0900</lastBuildDate>
     
         <atom:link href="https://qingbao86.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>免费挖ETH</title>
-        <link>https://qingbao86.github.io/posts/eth/</link>
-        <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
+        <title>手机挖矿</title>
+        <link>https://qingbao86.github.io/posts/mobile-miner/</link>
+        <pubDate>Sun, 25 Apr 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
-        <atom:modified>Sun, 18 Apr 2021 17:14:13 +0900</atom:modified>
-        <guid>https://qingbao86.github.io/posts/eth/</guid>
-        <description>ethprofitminer https://ethprofitminer.com/?refer=530361 ethprofitminer:</description>
+        <atom:modified>Sun, 25 Apr 2021 17:14:13 +0900</atom:modified>
+        <guid>https://qingbao86.github.io/posts/mobile-miner/</guid>
+        <description>免费手机挖矿平台总结 每隔一段时间登陆或激活一次 免费 不建议充值 使用的邀请码或的邀请链接注册大都会有奖励,互惠互利 如果链接打不开的话，尝试使用外</description>
         
         <dc:creator>Qingbao</dc:creator>
         
@@ -36,7 +36,31 @@
         
           
             
-              <category>ETH</category>
+              <category>手机挖矿</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>挖Bitcoin</title>
+        <link>https://qingbao86.github.io/posts/bitcoin/</link>
+        <pubDate>Fri, 23 Apr 2021 17:14:13 +0900</pubDate>
+        <author>yubaoshare@gmail.com (Qingbao)</author>
+        <atom:modified>Fri, 23 Apr 2021 17:14:13 +0900</atom:modified>
+        <guid>https://qingbao86.github.io/posts/bitcoin/</guid>
+        <description>Storm Gain 免费挖比特币 app.stormgain: https://app.stormgain.com/friend/BNS32412573 freemining 免费挖比特币 link: https://freemining.co/1496148 Cryptotab browser Cryptotabbrowser: https://cryptotabbrowser.com/20813686 一个免费挖比特币的浏览器，支持Windows, MacOS, Android&amp;hellip; free bitcoin https://freebitco.in/?r=41641578 通过抽奖领取比特币 每隔一小时领取一次 cryptoplace</description>
+        
+        <dc:creator>Qingbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Bitcoin</category>
             
           
         
@@ -93,54 +117,6 @@
       </item>
       
       <item>
-        <title>手机挖矿</title>
-        <link>https://qingbao86.github.io/posts/mobile-miner/</link>
-        <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
-        <author>yubaoshare@gmail.com (Qingbao)</author>
-        <atom:modified>Sun, 18 Apr 2021 17:14:13 +0900</atom:modified>
-        <guid>https://qingbao86.github.io/posts/mobile-miner/</guid>
-        <description>免费手机挖矿平台总结 每隔一段时间登陆或激活一次 免费 不建议充值 使用的邀请码或的邀请链接注册大都会有奖励,互惠互利 如果链接打不开的话，尝试使用外</description>
-        
-        <dc:creator>Qingbao</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>手机挖矿</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>挖Bitcoin</title>
-        <link>https://qingbao86.github.io/posts/bitcoin/</link>
-        <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
-        <author>yubaoshare@gmail.com (Qingbao)</author>
-        <atom:modified>Sun, 18 Apr 2021 17:14:13 +0900</atom:modified>
-        <guid>https://qingbao86.github.io/posts/bitcoin/</guid>
-        <description>Storm Gain 免费挖比特币 app.stormgain: https://app.stormgain.com/friend/BNS32412573 freemining 免费挖比特币 link: https://freemining.co/1496148 Cryptotab browser Cryptotabbrowser: https://cryptotabbrowser.com/20813686 一个免费挖比特币的浏览器，支持Windows, MacOS, Android&amp;hellip; free bitcoin https://freebitco.in/?r=41641578 通过抽奖领取比特币 每隔一小时领取一次 cryptoplace</description>
-        
-        <dc:creator>Qingbao</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>Bitcoin</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
         <title>挖狗狗币Doge</title>
         <link>https://qingbao86.github.io/posts/doge/</link>
         <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
@@ -157,6 +133,30 @@
           
             
               <category>Doge</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>数字货币交易平台</title>
+        <link>https://qingbao86.github.io/posts/trade-coin/</link>
+        <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
+        <author>yubaoshare@gmail.com (Qingbao)</author>
+        <atom:modified>Sun, 18 Apr 2021 17:14:13 +0900</atom:modified>
+        <guid>https://qingbao86.github.io/posts/trade-coin/</guid>
+        <description>币安 binance https://www.binance.com/zh-CN/register?ref=111031669 数字货币交易平台 火币网 huobi https://www.huobi.li/zh-cn/topic/invited/?invite_code=7jtd9 邀请码: 7jtd9</description>
+        
+        <dc:creator>Qingbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Trade</category>
             
           
         
@@ -205,6 +205,58 @@
           
             
               <category>Game</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>免费挖ETH</title>
+        <link>https://qingbao86.github.io/posts/eth/</link>
+        <pubDate>Thu, 18 Mar 2021 17:14:13 +0900</pubDate>
+        <author>yubaoshare@gmail.com (Qingbao)</author>
+        <atom:modified>Thu, 18 Mar 2021 17:14:13 +0900</atom:modified>
+        <guid>https://qingbao86.github.io/posts/eth/</guid>
+        <description>ethprofitminer https://ethprofitminer.com/?refer=530361 ethprofitminer:</description>
+        
+        <dc:creator>Qingbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>ETH</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>其它赚钱平台</title>
+        <link>https://qingbao86.github.io/posts/other-coin/</link>
+        <pubDate>Thu, 18 Mar 2021 17:14:13 +0900</pubDate>
+        <author>yubaoshare@gmail.com (Qingbao)</author>
+        <atom:modified>Thu, 18 Mar 2021 17:14:13 +0900</atom:modified>
+        <guid>https://qingbao86.github.io/posts/other-coin/</guid>
+        <description>Blockzone STPT DeFizone https://www.blockzone.com/zh_CN/user/reg?invite_id=20210419194002781723</description>
+        
+        <dc:creator>Qingbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Others</category>
+            
+          
+            
+              <category>STPT</category>
             
           
         
