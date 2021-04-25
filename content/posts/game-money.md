@@ -10,6 +10,9 @@ draft: false
 - BTC, DOGE, ETH, ...
 - 浏览器, Android
 
+## coin-farm
+- https://coin-farm.com/?en=qingbao
+
 ## cointiply
 - http://cointiply.com/r/4RQ2P
 

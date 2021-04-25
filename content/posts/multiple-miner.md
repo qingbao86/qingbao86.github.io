@@ -10,9 +10,6 @@ draft: false
 - https://rollercoin.com/?r=knl79zam
 - BTC, DOGE, ETH, ...
 
-## coin-farm
-- https://coin-farm.com/?en=qingbao
-
 ## cryptoplace
 - https://cryptoplace.cloud/?ref=yubaoshare
 - 同时挖XMR, BCH, LTC, BTC, DOGE, TRX
