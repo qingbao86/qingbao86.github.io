@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on Passive Income</title>
-    <link>https://qingbao86.github.io/gallery/</link>
+    <link>https://freelyearning.com/gallery/</link>
     <description>Recent content in Galleries on Passive Income</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,21 +16,21 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 31 Oct 2019 10:20:16 +0900</lastBuildDate>
     
-        <atom:link href="https://qingbao86.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freelyearning.com/gallery/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Cartoon</title>
-        <link>https://qingbao86.github.io/gallery/cartoon/</link>
+        <link>https://freelyearning.com/gallery/cartoon/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>https://qingbao86.github.io/gallery/cartoon/</guid>
+        <guid>https://freelyearning.com/gallery/cartoon/</guid>
         <description>Sample images from Pixabay</description>
         
         <dc:creator>Qingbao</dc:creator>
-        <media:content url="https://qingbao86.github.io/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://freelyearning.com/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -40,15 +40,15 @@
       
       <item>
         <title>Photo</title>
-        <link>https://qingbao86.github.io/gallery/photo/</link>
+        <link>https://freelyearning.com/gallery/photo/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>https://qingbao86.github.io/gallery/photo/</guid>
+        <guid>https://freelyearning.com/gallery/photo/</guid>
         <description>Sample images from Pixabay</description>
         
         <dc:creator>Qingbao</dc:creator>
-        <media:content url="https://qingbao86.github.io/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://freelyearning.com/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

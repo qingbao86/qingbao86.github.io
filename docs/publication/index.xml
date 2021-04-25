@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Publications on Passive Income</title>
-    <link>https://qingbao86.github.io/publication/</link>
+    <link>https://freelyearning.com/publication/</link>
     <description>Recent content in Publications on Passive Income</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="https://qingbao86.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freelyearning.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>article</title>
-        <link>https://qingbao86.github.io/publication/article/</link>
+        <link>https://freelyearning.com/publication/article/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>https://qingbao86.github.io/publication/article/</guid>
+        <guid>https://freelyearning.com/publication/article/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>book</title>
-        <link>https://qingbao86.github.io/publication/book/</link>
+        <link>https://freelyearning.com/publication/book/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>https://qingbao86.github.io/publication/book/</guid>
+        <guid>https://freelyearning.com/publication/book/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>misc</title>
-        <link>https://qingbao86.github.io/publication/misc/</link>
+        <link>https://freelyearning.com/publication/misc/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>https://qingbao86.github.io/publication/misc/</guid>
+        <guid>https://freelyearning.com/publication/misc/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>

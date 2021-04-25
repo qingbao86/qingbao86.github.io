@@ -1,4 +1,5 @@
-baseURL = "https://qingbao86.github.io/"
+#baseURL = "https://qingbao86.github.io/"
+baseURL = "https://freelyearning.com/"
 title = "Passive Income"
 theme = "zzo"
 
