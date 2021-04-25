@@ -5,6 +5,7 @@ tags: ["miner"]
 draft: false
 ---
 
+
 ## Rollercoin
 - https://rollercoin.com/?r=knl79zam
 - BTC, DOGE, ETH, ...
@@ -17,3 +18,11 @@ draft: false
 - 同时挖XMR, BCH, LTC, BTC, DOGE, TRX
 
 
+## mastercoin
+- https://mastercoin.top/?ref=yubaoshare
+- DOGE, LTC, ETH, ETC, BTC, XMR
+
+
+## 免责声明
+- 这些平台的可靠性自己判断
+- 不建议进行现金投资，以免造成经济损失

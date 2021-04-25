@@ -10,7 +10,11 @@ draft: false
 - BTC, DOGE, ETH, ...
 - 浏览器, Android
 
+## cointiply
+- http://cointiply.com/r/4RQ2P
+
 ##  Lucky Drop
 - Play this game and get $6 bonus right now!
 - http://n27.borgstudio90.com/service_earn/api/v2/1C197CdQeO
 - Android
+

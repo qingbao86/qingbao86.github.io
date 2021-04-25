@@ -99,7 +99,7 @@
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Sun, 18 Apr 2021 17:14:13 +0900</atom:modified>
         <guid>https://qingbao86.github.io/posts/multiple-miner/</guid>
-        <description>Rollercoin https://rollercoin.com/?r=knl79zam BTC, DOGE, ETH, &amp;hellip; coin-farm https://coin-farm.com/?en=qingbao cryptoplace https://cryptoplace.cloud/?ref=yubaoshare 同时挖XMR, BCH, LTC, BTC, DOGE, TRX</description>
+        <description>Rollercoin https://rollercoin.com/?r=knl79zam BTC, DOGE, ETH, &amp;hellip; coin-farm https://coin-farm.com/?en=qingbao cryptoplace https://cryptoplace.cloud/?ref=yubaoshare 同时挖XMR, BCH, LTC, BTC, DOGE, TRX mastercoin https://mastercoin.top/?ref=yubaoshare DOGE, LTC, ETH, ETC, BTC, XMR 免责声明 这些平台的可靠性自己判断 不建议进行现金投资，以免造成经济损失</description>
         
         <dc:creator>Qingbao</dc:creator>
         
@@ -165,12 +165,12 @@
       </item>
       
       <item>
-        <title>看广告或视频赚钱</title>
-        <link>https://qingbao86.github.io/posts/ads-money/</link>
+        <title>看广告或视频或做任务赚钱</title>
+        <link>https://qingbao86.github.io/posts/tasks-money/</link>
         <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Sun, 18 Apr 2021 17:14:13 +0900</atom:modified>
-        <guid>https://qingbao86.github.io/posts/ads-money/</guid>
+        <guid>https://qingbao86.github.io/posts/tasks-money/</guid>
         <description>odysee https://odysee.com/$/invite/@qingbao:7 类似于youtube的一个视频网站，可以通过看视频赚钱 alexamaster https://www.alexamaster.net/sec/join.php?id=158478 通过浏览广告或视频赚钱 cashmining http://cashmining.xyz/?ref=95502 快手极速版 ℉Y1OhxXVwm_AO₤ http://s5j.net/bi6g3 微信制开复打</description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -180,7 +180,15 @@
         
           
             
-              <category>Ads</category>
+              <category>ads</category>
+            
+          
+            
+              <category>task</category>
+            
+          
+            
+              <category>game</category>
             
           
         
@@ -195,7 +203,7 @@
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Sun, 18 Apr 2021 17:14:13 +0900</atom:modified>
         <guid>https://qingbao86.github.io/posts/game-money/</guid>
-        <description>Rollercoin https://rollercoin.com/?r=knl79zam BTC, DOGE, ETH, &amp;hellip; 浏览器, Android Lucky Drop Play this game and get $6 bonus right now! http://n27.borgstudio90.com/service_earn/api/v2/1C197CdQeO Android</description>
+        <description>Rollercoin https://rollercoin.com/?r=knl79zam BTC, DOGE, ETH, &amp;hellip; 浏览器, Android cointiply http://cointiply.com/r/4RQ2P Lucky Drop Play this game and get $6 bonus right now! http://n27.borgstudio90.com/service_earn/api/v2/1C197CdQeO Android</description>
         
         <dc:creator>Qingbao</dc:creator>
         

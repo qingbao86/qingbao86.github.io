@@ -1,7 +1,7 @@
 ---
-title: "看广告或视频赚钱"
+title: "看广告或视频或做任务赚钱"
 date: 2021-04-18T17:14:13+09:00
-tags:  ["Ads"]
+tags:  ["ads", "task", "game"]
 draft: false
 ---
 
@@ -31,3 +31,6 @@ http://s5j.net/bi6g3
 - 听音乐赚钱的软件
 - 可能只能在海外使用
 - 通过Paypal取现
+
+## cointiply
+- http://cointiply.com/r/4RQ2P
