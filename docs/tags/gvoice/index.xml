@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Gvoice on Passive Income</title>
+    <link>https://freelyearning.com/tags/gvoice/</link>
+    <description>Recent content in Gvoice on Passive Income</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yubaoshare@gmail.com (Qingbao)</managingEditor>
+    <webMaster>yubaoshare@gmail.com (Qingbao)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 18 Mar 2019 17:14:13 +0900</lastBuildDate>
+    
+        <atom:link href="https://freelyearning.com/tags/gvoice/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Google Voice 使用方法及Wechatout注册</title>
+        <link>https://freelyearning.com/posts/google-voice/</link>
+        <pubDate>Mon, 18 Mar 2019 17:14:13 +0900</pubDate>
+        <author>yubaoshare@gmail.com (Qingbao)</author>
+        <atom:modified>Mon, 18 Mar 2019 17:14:13 +0900</atom:modified>
+        <guid>https://freelyearning.com/posts/google-voice/</guid>
+        <description>Google Voice 使用方法 Google Voice 注册 Google Voice 注册Wechat Out Google Voice 注册脸书 准备 国外电话号码 注册Google Voice 我查阅了网上的一些教程，我先用Text Now申请了一</description>
+        
+        <dc:creator>Qingbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Gvoice</category>
+            
+          
+            
+              <category>WechatOut</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
