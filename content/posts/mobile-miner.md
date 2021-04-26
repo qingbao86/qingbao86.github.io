@@ -16,27 +16,38 @@ draft: false
 - 免费挖PI币
 - 注册: https://minepi.com/yubao89
 - invitation code (邀请码): yubao89
-  使用邀请码可赠送1个pi币
+- 使用邀请码可赠送1个pi币
+- 每24个小时激活一次
 
 ## Bee network
 - bee.com: https://bee1314.com/sc/
 - invitation code (邀请码): yubao89
+- 每24个小时激活一次
 
 ## Midoin
 - Midoin homepage: https://midoin.link/6DWe
 - invitation code (邀请码): yubaoliu
+- 每24个小时激活一次
 
 ## Storm Gain
 - 免费挖比特币
 - app.stormgain: https://app.stormgain.com/friend/BNS32412573
+- 每4个小时激活一次
+- 用邀请码注册可得 3USDT
+- 每4个小时激活一次
+- 这个项目是目前最好的一个手机挖矿项目
+- 可以交易
+
 
 ## Time stope
 - timestope: https://www.timestope.com/yubao
 - 立即加入TIMESTOPE，用自己的时间来获得TIME币
+- 每24个小时激活一次
 
 ## Cryptotab browser
 - Cryptotabbrowser: https://cryptotabbrowser.com/20813686
--  一个免费挖比特币的浏览器，支持Windows, MacOS, Android...
+- 一个免费挖比特币的浏览器，支持Windows, MacOS, Android...
+- 可以交易
 
 ## Ant network 
 - Ant network: https://play.google.com/store/apps/details?id=com.creativeoffice.ripcoin&hl=tr&gl=US
@@ -46,6 +57,7 @@ draft: false
 - 下载: https://play.google.com/store/apps/details?id=com.cloud.earning
 - 邀请码: azw3ngcc
 - 使用邀请码注册可以直接获取200PHT
+- 每一周激活一次
 - 这个币种已经可以交易
 - Sign up now and get 200 PHT Bonus.
 - Use my code and claim your bonus: azw3ngcc
@@ -68,6 +80,7 @@ Use my referral code: QINGBAO
 ## cyberpunk
 - 下载: https://promobileview.cyberpunk.business/#/register?code=B6703700&lang=China
 - 推荐码: B6703700
+- 可以交易
 
 ## Sperax Play
 - 下载: sperax.io
@@ -83,5 +96,7 @@ Spotter is a new digital currency which is growing up to become soon a cryptocur
 - https://mine.vikione.com/auth?invite=qingbao
 - 可能是新项目，目前只有网页版的
 - 酷似Pi network, 所以归类在这里
+- 每小时挖矿速度为 1.800 ONE/hr
+- 每6个小时激活一次
 
 
