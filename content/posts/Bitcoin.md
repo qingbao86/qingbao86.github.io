@@ -28,3 +28,12 @@ draft: false
 ## coinmines
 - https://www.coinmines.online/?ref=210418110955
 
+## simulatedapeminer
+- https://simulatedapeminer.com?r=9634
+- 一个老平台
+- 玩游戏赚取比特币
+- 提现门槛： 25 satoshi
+
+
+
+

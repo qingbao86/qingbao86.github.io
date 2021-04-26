@@ -44,14 +44,3 @@ Wechat Out 是一个可以拨打全球电话的工具， 用国内手机号注�
 Google Voice号也可以用于注册很多国外的社交平台。
 
 注意：要经常使用Google Voice, 不然会被回收的。
-
-
-
- ![yubao_blog_cover](https://raw.githubusercontent.com/yubaoliu/assets/image/yubao_blog_cover.png)
--
--
--
--
-
-
-

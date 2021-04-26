@@ -79,4 +79,9 @@ Use my referral code: QINGBAO
 I'm gifting you 1 Sp! Join now Spotter's network using my username as referral (qingbao).
 Spotter is a new digital currency which is growing up to become soon a cryptocurrency. 
 
+## one network
+- https://mine.vikione.com/auth?invite=qingbao
+- 可能是新项目，目前只有网页版的
+- 酷似Pi network, 所以归类在这里
+
 

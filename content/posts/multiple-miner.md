@@ -19,6 +19,10 @@ draft: false
 - https://mastercoin.top/?ref=yubaoshare
 - DOGE, LTC, ETH, ETC, BTC, XMR
 
+## bitland
+- https://bitland.pro/?ref=yubaoshare
+- USDT, TRX, DOGE, LTC, BTC
+- 网页有时显示有问题
 
 ## 免责声明
 - 这些平台的可靠性自己判断
