@@ -17,6 +17,8 @@ draft: false
 - http://cashmining.xyz/?ref=95502
 
 ## 快手极速版
+- 看视频，签到，做任务,玩游戏均可获得收入
+- 邀请好友赚43元 (可能会有调整)
 
 ℉Y1OhxXVwm_AO₤
 http://s5j.net/bi6g3

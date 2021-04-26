@@ -12,3 +12,14 @@ draft: false
 ## 火币网 huobi
 - https://www.huobi.li/zh-cn/topic/invited/?invite_code=7jtd9
 - 邀请码: 7jtd9
+
+## Storm Gain
+- 免费挖比特币
+- app.stormgain: https://app.stormgain.com/friend/BNS32412573
+- 每4个小时激活一次
+- 用邀请码注册可得 3USDT
+- 每4个小时激活一次
+- 这个项目是目前最好的一个手机挖矿项目
+- 可以交易
+
+
