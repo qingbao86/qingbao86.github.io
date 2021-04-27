@@ -9,6 +9,10 @@ draft: false
 - https://odysee.com/$/invite/@qingbao:7
 - 类似于youtube的一个视频网站，可以通过看视频赚钱
 
+## rumble
+- https://rumble.com/register/qingbao/
+- 类似于odysee，利用上传视频及视频播放赚取收益
+
 ## alexamaster
 - https://www.alexamaster.net/sec/join.php?id=158478
 - 通过浏览广告或视频赚钱
@@ -20,6 +24,7 @@ draft: false
 - 看视频，签到，做任务,玩游戏均可获得收入
 - 邀请好友赚43元 (可能会有调整)
 - 可能通过微信注册并提现
+- 国内软件，可以产生收益
 
 ℉Y1OhxXVwm_AO₤
 http://s5j.net/bi6g3
@@ -37,3 +42,23 @@ http://s5j.net/bi6g3
 
 ## cointiply
 - http://cointiply.com/r/4RQ2P
+
+## 悬赏猫
+![XuanShangMao](https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/XuanShangMao.png)
+
+## 財神小舖
+- https://tw778.page.link/T9kc
+- 一个信用卡管理手机软件
+- 国内软件，可以产生收益
+![](https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210427205537202.png)
+
+## ClipClaps
+-  Clapcode:9246374492 你可以在应用商店找到Clipclaps,或者只需要点击下载链接：https://itunes.apple.com/us/app/clipclaps/id1331794493?mt=8 快来加入吧！
+- 通过玩游戏，上传视频，看视频，做任务赚钱
+![](https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210427210758888.png)
+
+## toloka
+- https://toloka.yandex.com/promo?referralCode=TLKEVP2V
+- 通过视频，做任务赚钱的手机应用
+- 赚取美金
+

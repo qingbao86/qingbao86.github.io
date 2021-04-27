@@ -37,7 +37,7 @@ draft: false
 - 每4个小时激活一次
 - 这个项目是目前最好的一个手机挖矿项目
 - 可以交易
-{{< img src="/images/StormGain.jpg" title="" caption="" alt="StormGain" width="700px" position="center" >}}
+{{< img src="/images/StormGain.jpg" title="" caption="" alt="StormGain" width="240px" position="center" >}}
 
 ## Time stope
 - timestope: https://www.timestope.com/yubao
@@ -105,8 +105,9 @@ Spotter is a new digital currency which is growing up to become soon a cryptocur
 - 邀请码： th80qV
 - 质压挖矿
 - 可交易
-{{< img src="/images/korbit300.jpg" title="" caption="" alt="korbit300" width="700px" position="center" >}}
+{{< img src="/images/korbit300.jpg" title="" caption="" alt="korbit300" width="320px" position="center" >}}
 
 ## 领主
+- 可以放大一下再扫描
+{{< img src="/images/lingzhu.jpg" title="" caption="" alt="lingzhu" width="320px" position="center" >}}
 
-{{< img src="/images/lingzhu.jpg" title="" caption="" alt="lingzhu" width="700px" position="center" >}}
