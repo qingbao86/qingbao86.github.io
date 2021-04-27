@@ -44,21 +44,22 @@ http://s5j.net/bi6g3
 - http://cointiply.com/r/4RQ2P
 
 ## 悬赏猫
-![XuanShangMao](https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/XuanShangMao.png)
+<img alt="XuanShangMao" src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/XuanShangMao.png" width="320px" />
 
 ## 財神小舖
 - https://tw778.page.link/T9kc
 - 一个信用卡管理手机软件
 - 国内软件，可以产生收益
-![](https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210427205537202.png)
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210427205537202.png" width="320px" />
 
 ## ClipClaps
 -  Clapcode:9246374492 你可以在应用商店找到Clipclaps,或者只需要点击下载链接：https://itunes.apple.com/us/app/clipclaps/id1331794493?mt=8 快来加入吧！
 - 通过玩游戏，上传视频，看视频，做任务赚钱
-![](https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210427210758888.png)
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210427210758888.png" width="320px" />
 
 ## toloka
 - https://toloka.yandex.com/promo?referralCode=TLKEVP2V
 - 通过视频，做任务赚钱的手机应用
 - 赚取美金
+
 
