@@ -20,7 +20,7 @@ draft: false
 - http://cointiply.com/r/4RQ2P
 
 <a href="http://cointiply.com/r/4RQ2P" target="_blank">
-<img title="Join Cointiply to Earn Free Bitcoin!" alt="Earn Free Bitcoin" src="https://cointiply.com/img/promo/banners/1_300x250.jpg"></a> 
+<img src="https://cointiply.com/img/promo/banners/1_300x250.jpg" alt="Earn Free Bitcoin"></a> 
 
 ## simulatedapeminer
 - https://simulatedapeminer.com?r=9634
