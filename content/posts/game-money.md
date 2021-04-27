@@ -13,14 +13,23 @@ draft: false
 ## coin-farm
 - https://coin-farm.com/?en=qingbao
 
+<a href="https://coin-farm.com/?en=qingbao" target="_blank">
+<img src="https://coin-farm.com/images/promo/en/320x50.gif" alt="Profit every 10 minutes!"></a>
+
 ## cointiply
 - http://cointiply.com/r/4RQ2P
+
+<a href="http://cointiply.com/r/4RQ2P" target="_blank">
+<img title="Join Cointiply to Earn Free Bitcoin!" alt="Earn Free Bitcoin" src="https://cointiply.com/img/promo/banners/1_300x250.jpg"></a> 
 
 ## simulatedapeminer
 - https://simulatedapeminer.com?r=9634
 - 一个老平台
 - 玩游戏赚取比特币
 - 提现门槛： 25 satoshi
+
+<a href="https://simulatedapeminer.com?r=9634" target="_blank">
+<img src="https://simulatedapeminer.com/build/img/sam_468x68.gif" ></a>
 
 ## libradragon
 - https://h5.libradragon.io/invite.html?code=2464665 
