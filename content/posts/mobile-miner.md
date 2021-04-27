@@ -79,8 +79,9 @@ Use my referral code: QINGBAO
 
 ## cyberpunk
 - 下载: https://promobileview.cyberpunk.business/#/register?code=B6703700&lang=China
-- 推荐码: B6703700
+- 推荐码ID: B6703700
 - 可以交易
+- 注册后可以加我的ID进行组队挖矿
 
 ## Sperax Play
 - 下载: sperax.io
@@ -91,6 +92,13 @@ Use my referral code: QINGBAO
 - 推荐码: qingbao
 I'm gifting you 1 Sp! Join now Spotter's network using my username as referral (qingbao).
 Spotter is a new digital currency which is growing up to become soon a cryptocurrency. 
+
+## Reflex cloud mining
+- Download this FREE cloud mining app called: "Reflex Cloud Mining" 
+- link: https://play.google.com/store/apps/details?id=com.reflextoken.cloudmining
+- 邀请码： 5wo7z
+- 使用邀请码注册可获得 30RFX
+- 可交易
 
 ## one network
 - https://mine.vikione.com/auth?invite=qingbao
