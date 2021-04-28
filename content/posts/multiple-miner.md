@@ -10,6 +10,8 @@ draft: false
 - https://rollercoin.com/?r=knl79zam
 - BTC, DOGE, ETH, ...
 
+<!--more-->
+
 ## cryptoplace
 - https://cryptoplace.cloud/?ref=yubaoshare
 - 同时挖XMR, BCH, LTC, BTC, DOGE, TRX

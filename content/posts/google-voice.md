@@ -11,6 +11,8 @@ draft: false
 - Google Voice 注册Wechat Out
 - Google Voice 注册脸书
 
+<!--more-->
+
 ## 准备
 - 国外电话号码
 
