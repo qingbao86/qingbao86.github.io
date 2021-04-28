@@ -25,7 +25,7 @@ image: images/feature1/markdown.png
 # link
 
 <a href="https://cryptotabbrowser.com/20813686" target="_blank">
-<img src="https://cdn.cryptobrowser.store/static/affiliate/images/product_logo_500px.png" alt="cryptotabbrowser" /></a>
+<img src="https://cdn.cryptobrowser.store/static/affiliate/images/product_logo_500px.png" width="320px"  alt="cryptotabbrowser" /></a>
 
 
 ## Headings
