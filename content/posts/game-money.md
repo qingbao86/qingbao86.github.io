@@ -65,4 +65,8 @@ draft: false
 - Play this game and get $6 bonus right now!
 - http://n27.borgstudio90.com/service_earn/api/v2/1C197CdQeO
 - Android
+- 这个手机软件通过玩游戏挣钱是比较慢的，但可以通过相互分享快速获得收益
+
+<a href="http://n27.borgstudio90.com/service_earn/api/v2/1C197CdQeO>
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428152456000.png" width="320px" /></a>
 

@@ -35,12 +35,12 @@ http://s5j.net/bi6g3
 填我的码：459816666
 
 <a href="http://s5j.net/bi6g3" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428103612497.png"/></a>
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428103612497.png" width="320px" /></a>
 
 ## 快看点
 - 邀请码：  9F7EMW
 
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428103940636.png"/>
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428103940636.png" width="320px"/>
 
 ## Current
 - Hey, I just gifted you points on the Current Cash Rewards app. Click on my link and make up to $600 a year!
@@ -50,7 +50,7 @@ http://s5j.net/bi6g3
 - 通过Paypal取现
 
 <a href="https://crrnt.me/YAO1vbv5Hfb" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428105036835.png"/></a>
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428105036835.png" width="320px" /></a>
 
 ## cointiply
 - http://cointiply.com/r/4RQ2P

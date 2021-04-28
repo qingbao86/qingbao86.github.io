@@ -124,3 +124,13 @@ Spotter is a new digital currency which is growing up to become soon a cryptocur
 - 可以放大一下再扫描
 {{< img src="/images/lingzhu.jpg" title="" caption="" alt="lingzhu" width="320px" position="center" >}}
 
+## 超级算力
+- http://app.chaojisuanli.com/addons/invite/invite/inviteShareView?user_id=99442
+- 我的邀请码：5870515
+- 一个生活服务类软件, 可以赚取收益
+
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428143323605.png"/>
+
+<a href="http://app.chaojisuanli.com/addons/invite/invite/inviteShareView?user_id=99442" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428143356527.png"/></a>
+
