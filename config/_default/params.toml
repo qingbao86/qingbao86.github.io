@@ -7,7 +7,7 @@ custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
-themecolor = ""
+themecolor = "dark"
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
 notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
@@ -63,7 +63,7 @@ email = "yubaoshare@gmail.com"
 whoami = "QQ群: 905799254"
 bioImageUrl = ""
 useGravatar = false
-location = "Aichi, Japan"
+location = "Japan"
 organization = ""
 link = ""
 
@@ -102,7 +102,7 @@ busuanziSitePV = true
 busuanziPagePV = true
 
 # rss
-updatePeriod = "" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
+updatePeriod = "daily" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
 updateFrequency = ""
 fullContents = false
 
@@ -167,7 +167,7 @@ commento = false
   stack-overflow = ""
   instagram = ""
   google-plus = ""
-  youtube = ""
+  youtube = "https://studio.youtube.com/channel/UCnro8gpX4As-V8bOFESdUjg"
   medium = ""
   tumblr = ""
   linkedin = ""
