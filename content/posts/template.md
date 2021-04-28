@@ -1,23 +1,18 @@
 ---
-title: Markdown Syntax Guide
+title: template
 date: 2019-12-20T12:00:06+09:00
-description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+description: description
 draft: true
 hideToc: false
 enableToc: true
 enableTocContent: true
-author: Choi
-authorEmoji: 🤖
+author: qingbao
 tags:
-- markdown
-- css
-- html
-- themes
+- money
 categories:
-- themes
-- syntax
+- money
 series:
-- Themes Guide
+- Earn Money
 image: images/feature1/markdown.png
 ---
 
@@ -25,9 +20,13 @@ image: images/feature1/markdown.png
 
 ![XuanShangMao](https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/XuanShangMao.png)
 
-
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 <!--more-->
+
+# link
+
+<a href="https://cryptotabbrowser.com/20813686" target="_blank">
+<img src="https://cdn.cryptobrowser.store/static/affiliate/images/product_logo_500px.png" alt="cryptotabbrowser" /></a>
+
 
 ## Headings
 
@@ -41,8 +40,6 @@ The following HTML `<h1>`—`<h6>` elements represent six levels of section head
 ###### H6
 
 ## Paragraph
-
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
 
 Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
 
@@ -95,6 +92,7 @@ html
 </body>
 </html>
 ```
+
 #### Code block indented with four spaces
 
     <!DOCTYPE html>
