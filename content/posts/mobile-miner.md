@@ -165,11 +165,20 @@ Spotter is a new digital currency which is growing up to become soon a cryptocur
 
 ## 超级算力
 - http://app.chaojisuanli.com/addons/invite/invite/inviteShareView?user_id=99442
-- 我的邀请码：5870515
+- 邀请码：5870515
 - 一个生活服务类软件, 可以赚取收益
 
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428143323605.png" width="240px"/>
 
 <a href="http://app.chaojisuanli.com/addons/invite/invite/inviteShareView?user_id=99442" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428143356527.png" width="240px" /></a>
+
+
+## QZ交易所 
+- http://qz.qzhbjys.vip/register?inviteCode=cl9m0r
+- 邀请码: cl9m0r
+
+<a href="http://qz.qzhbjys.vip/register?inviteCode=cl9m0r" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210429071232260.png" width="240px" /></a>
+
 

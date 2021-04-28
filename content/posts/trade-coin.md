@@ -29,3 +29,12 @@ draft: false
 - 邀请码： th80qV
 - 质压挖矿
 - 可交易
+
+## QZ交易所 
+- http://qz.qzhbjys.vip/register?inviteCode=cl9m0r
+- 邀请码: cl9m0r
+
+<a href="http://qz.qzhbjys.vip/register?inviteCode=cl9m0r" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210429071232260.png" width="240px" /></a>
+
+
