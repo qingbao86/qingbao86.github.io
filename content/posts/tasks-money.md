@@ -47,6 +47,9 @@ http://s5j.net/bi6g3
 - 可能只能在海外使用
 - 通过Paypal取现
 
+<a href="https://crrnt.me/YAO1vbv5Hfb" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428105036835.png"/></a>
+
 ## cointiply
 - http://cointiply.com/r/4RQ2P
 
