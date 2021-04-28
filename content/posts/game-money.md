@@ -10,6 +10,11 @@ draft: false
 - BTC, DOGE, ETH, ...
 - 浏览器, Android
 
+<!--Start rollercoin.com code--> 
+<a href="https://rollercoin.com/?r=knl79zam">
+<img src="//rollercoin.com/static/img/referral/banners/ref_300100.gif" alt="promo"/> </a>
+<!--End rollercoin.com code--> 
+
 ## coin-farm
 - https://coin-farm.com/?en=qingbao
 

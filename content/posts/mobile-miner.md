@@ -49,6 +49,9 @@ draft: false
 - 一个免费挖比特币的浏览器，支持Windows, MacOS, Android...
 - 可以交易
 
+<a href="https://cryptotabbrowser.com/20813686" target="_blank">
+<img src="https://cdn.cryptobrowser.store/static/affiliate/images/product_logo_500px.png" alt="cryptotabbrowser" /></a>
+
 ## Ant network 
 - Ant network: https://play.google.com/store/apps/details?id=com.creativeoffice.ripcoin&hl=tr&gl=US
 - 推荐码:  qingbao
