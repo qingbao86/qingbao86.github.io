@@ -32,6 +32,13 @@ http://s5j.net/bi6g3
 
 填我的码：459816666
 
+<a href="http://s5j.net/bi6g3" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428103612497.png"/></a>
+
+## 快看点
+- 邀请码：  9F7EMW
+
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428103940636.png"/>
 
 ## Current
 - Hey, I just gifted you points on the Current Cash Rewards app. Click on my link and make up to $600 a year!
