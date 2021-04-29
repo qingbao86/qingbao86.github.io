@@ -2,6 +2,7 @@
 title: "看广告或视频或做任务赚钱"
 date: 2021-04-18T17:14:13+09:00
 tags:  ["ads", "task", "game"]
+description: "看广告或视频或做任务赚钱"
 draft: false
 ---
 
@@ -73,5 +74,13 @@ http://s5j.net/bi6g3
 - https://toloka.yandex.com/promo?referralCode=TLKEVP2V
 - 通过视频，做任务赚钱的手机应用
 - 赚取美金
+
+## Makemoney / Cashapp
+- 只要完成相应的任务就可以得到现金。试一下吧！填入代码 33DC8A 得到免费的信用积分。在这里获取 http://cashapp.io/app
+
+## zareklamy
+- https://www.zareklamy.com/ad?r=yubaoshare
+- 做任务
+
 
 

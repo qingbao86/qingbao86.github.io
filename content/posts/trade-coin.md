@@ -1,7 +1,8 @@
 ---
-title: "数字货币交易平台"
+title: "数字货币交易平台/钱包地址"
 date: 2021-04-18T17:14:13+09:00
 tags:  ["Trade"]
+description: "数字货币交易平台"
 draft: false
 ---
 
@@ -36,5 +37,19 @@ draft: false
 
 <a href="http://qz.qzhbjys.vip/register?inviteCode=cl9m0r" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210429071232260.png" width="240px" /></a>
+
+## swapall
+- 邀请码: ji9r02
+- 手机挖矿
+
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210429124556114.png" width="240px"/> 
+
+## probit
+- https://www.probit.com/r/99183013
+- 交易挖矿
+
+## coinlist
+- https://coinlist.co/clt?referral_code=R9CX2J
+- 有免费收入比特币的渠道
 
 
