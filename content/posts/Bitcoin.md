@@ -37,6 +37,12 @@ draft: false
 - 玩游戏赚取比特币
 - 提现门槛： 25 satoshi
 
+## btcsmash
+- https://btcsmash.io/?i=518731
+- 每3个小时可领取一次，也可做一些任务,游戏稍微有点无聊
+- 提现额为： 0.035
+
+<a href="https://btcsmash.io/?i=518731" target="_blank"><img src="https://btcsmash.io/images/foursixeight.gif" border="0"></a>
 
 
 

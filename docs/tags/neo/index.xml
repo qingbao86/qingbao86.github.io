@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>neo on Passive Income</title>
+    <link>https://freelyearning.com/tags/neo/</link>
+    <description>Recent content in neo on Passive Income</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yubaoshare@gmail.com (Qingbao)</managingEditor>
+    <webMaster>yubaoshare@gmail.com (Qingbao)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 18 Mar 2020 17:14:13 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://freelyearning.com/tags/neo/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>挖NEO</title>
+        <link>https://freelyearning.com/posts/neo/</link>
+        <pubDate>Wed, 18 Mar 2020 17:14:13 +0900</pubDate>
+        <author>yubaoshare@gmail.com (Qingbao)</author>
+        <atom:modified>Wed, 18 Mar 2020 17:14:13 +0900</atom:modified>
+        <guid>https://freelyearning.com/posts/neo/</guid>
+        <description>freeneo https://freeneo.io/?ref=98536 The minimum is 1 NEO. Please withdraw only full amounts e.g. 1 NEO or 2 NEO because it&amp;rsquo;s impossible to send fractions in the NEO network.</description>
+        
+        <dc:creator>Qingbao</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>neo</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
