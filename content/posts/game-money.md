@@ -24,6 +24,11 @@ draft: false
 <a href="https://coin-farm.com/?en=qingbao" target="_blank">
 <img src="https://coin-farm.com/images/promo/en/320x50.gif" alt="Profit every 10 minutes!"></a>
 
+## cryptomininggame
+- 比较靠谱的一款游戏，游戏难度稍大，技术性更强
+- https://cryptomininggame.com/?ref=599edb7d13c8
+<a href="https://cryptomininggame.com/?ref=599edb7d13c8" title="Come and play Crypto Mining Game with me!"><img src="https://cryptomininggame.com/bundles/front/images/referral/cmg-banner-468x60-.gif" alt="Play Crypto Mining Game" /></a>
+
 ## cointiply
 - http://cointiply.com/r/4RQ2P
 

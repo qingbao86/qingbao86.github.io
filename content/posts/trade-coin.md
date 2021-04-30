@@ -38,6 +38,10 @@ draft: false
 <a href="http://qz.qzhbjys.vip/register?inviteCode=cl9m0r" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210429071232260.png" width="240px" /></a>
 
+## OKEx　交易所
+- https://www.okex.win/join/7404696
+- 通过活期或定期存款来获取收益，与质压挖矿类似
+
 ## swapall
 - 邀请码: ji9r02
 - 手机挖矿

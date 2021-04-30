@@ -188,6 +188,10 @@ Spotter is a new digital currency which is growing up to become soon a cryptocur
 
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210429124556114.png" width="240px"/> 
 
+## OKEx　交易所
+- https://www.okex.win/join/7404696
+- 通过活期或定期存款来获取收益，与质压挖矿类似
+
 ## probit
 - https://www.probit.com/r/99183013
 - 交易挖矿
