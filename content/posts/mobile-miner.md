@@ -63,7 +63,7 @@ draft: false
 ## Cryptotab browser
 - Cryptotabbrowser: https://cryptotabbrowser.com/20813686
 - 一个免费挖比特币的浏览器，支持Windows, MacOS, Android...
-- 可以交易
+- 可以交易, 电脑端的不用每天激活，手机端的须要每隔3个小时左右激活
 
 <a href="https://cryptotabbrowser.com/20813686" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428215323963.png" width="240px" /> </a>
@@ -160,21 +160,6 @@ Spotter is a new digital currency which is growing up to become soon a cryptocur
 - 可交易
 {{< img src="/images/korbit300.jpg" title="" caption="" alt="korbit300" width="320px" position="center" >}}
 
-## 领主
-- 可以放大一下再扫描
-{{< img src="/images/lingzhu.jpg" title="" caption="" alt="lingzhu" width="240px" position="center" >}}
-
-## 超级算力
-- http://app.chaojisuanli.com/addons/invite/invite/inviteShareView?user_id=99442
-- 邀请码：5870515
-- 一个生活服务类软件, 可以赚取收益
-
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428143323605.png" width="240px"/>
-
-<a href="http://app.chaojisuanli.com/addons/invite/invite/inviteShareView?user_id=99442" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428143356527.png" width="240px" /></a>
-
-
 ## QZ交易所 
 - http://qz.qzhbjys.vip/register?inviteCode=cl9m0r
 - 邀请码: cl9m0r
@@ -195,6 +180,21 @@ Spotter is a new digital currency which is growing up to become soon a cryptocur
 ## probit
 - https://www.probit.com/r/99183013
 - 交易挖矿
+
+## 领主
+- 可以放大一下再扫描
+{{< img src="/images/lingzhu.jpg" title="" caption="" alt="lingzhu" width="240px" position="center" >}}
+
+## 超级算力
+- http://app.chaojisuanli.com/addons/invite/invite/inviteShareView?user_id=99442
+- 邀请码：5870515
+- 一个生活服务类软件, 可以赚取收益
+
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428143323605.png" width="240px"/>
+
+<a href="http://app.chaojisuanli.com/addons/invite/invite/inviteShareView?user_id=99442" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428143356527.png" width="240px" /></a>
+
 
 
 
