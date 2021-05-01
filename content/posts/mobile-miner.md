@@ -51,6 +51,7 @@ draft: false
 - 可以交易
 {{< img src="/images/StormGain.jpg" title="" caption="" alt="StormGain" width="240px" position="center" >}}
 
+
 ## Time stope
 - timestope: https://www.timestope.com/yubao
 - 立即加入TIMESTOPE，用自己的时间来获得TIME币
@@ -67,6 +68,15 @@ draft: false
 
 <a href="https://cryptotabbrowser.com/20813686" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428215323963.png" width="240px" /> </a>
+
+## bihang 币行
+- http://bihang.chainbank.top/index.html#/?code=LPBlxmg
+- 邀请码: LPBlxmg
+- 挖BHT, 每天可以挖一个，应该昌可以交易的
+
+<a href="http://bihang.chainbank.top/index.html#/?code=LPBlxmg" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210502002826294.png" width="240px" /></a>
+
 
 ## Ant network 
 - Ant network: https://play.google.com/store/apps/details?id=com.creativeoffice.ripcoin&hl=tr&gl=US
