@@ -41,6 +41,11 @@ draft: false
 <a href="https://simulatedapeminer.com?r=9634" target="_blank">
 <img src="https://simulatedapeminer.com/build/img/sam_468x68.gif" /></a>
 
+# btcsmash
+https://btcsmash.io/?i=518731
+每3个小时可领取一次，也可做一些任务,游戏稍微有点无聊
+提现额为： 0.035
+
 ## libradragon
 - https://h5.libradragon.io/invite.html?code=2464665 
 - 赚取 LDT币
