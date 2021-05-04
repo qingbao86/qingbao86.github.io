@@ -26,6 +26,9 @@ draft: false
 - 比较靠谱的一款游戏，游戏难度稍大，技术性更强
 - https://cryptomininggame.com/?ref=599edb7d13c8
 
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210503213139452.png"  width="240px" />
+
+
 ## cointiply
 - http://cointiply.com/r/4RQ2P
 

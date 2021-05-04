@@ -173,6 +173,8 @@ Spotter is a new digital currency which is growing up to become soon a cryptocur
 ## QZ交易所 
 - http://qz.qzhbjys.vip/register?inviteCode=cl9m0r
 - 邀请码: cl9m0r
+- 送矿机，免费挖2个月
+- 送4000USD，不过处于冻结状态，需要交易才能解冻
 
 <a href="http://qz.qzhbjys.vip/register?inviteCode=cl9m0r" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210429071232260.png" width="240px" /></a>
