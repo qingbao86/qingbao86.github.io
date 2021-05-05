@@ -6,6 +6,12 @@ description: "数字货币交易平台"
 draft: false
 ---
 
+## coinbene
+- https://www.coinbene.ren/auth/register?hash=3Nbfvl1
+- Invitation code: 3Nbfvl1
+- 注意： RCOIN/USDT 也是可以在这里交易的
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210505195800197.png" width="240px"/>
+
 ## 币安 binance
 - https://www.binance.com/zh-CN/register?ref=111031669
 - 数字货币交易平台

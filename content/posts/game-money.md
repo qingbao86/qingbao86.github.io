@@ -28,13 +28,6 @@ draft: false
 
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210503213139452.png"  width="240px" />
 
-
-## cointiply
-- http://cointiply.com/r/4RQ2P
-
-<a href="http://cointiply.com/r/4RQ2P" target="_blank">
-<img src="https://cointiply.com/img/promo/banners/1_300x250.jpg" alt="Earn Free Bitcoin"/></a> 
-
 ## simulatedapeminer
 - https://simulatedapeminer.com?r=9634
 - 一个老平台
@@ -77,6 +70,11 @@ https://btcsmash.io/?i=518731
 - 可以赚钱，AR游戏
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210427212909186.png" width="320px" />
 
+## cointiply
+- http://cointiply.com/r/4RQ2P
+
+<a href="http://cointiply.com/r/4RQ2P" target="_blank">
+<img src="https://cointiply.com/img/promo/banners/1_300x250.jpg" alt="Earn Free Bitcoin"/></a> 
 
 ##  Lucky Drop
 - Play this game and get $6 bonus right now!
