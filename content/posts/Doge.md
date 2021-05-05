@@ -25,6 +25,11 @@ draft: false
 - https://dogehash.biz/?ref=96431
 - 提现门槛不详，我的级别太低 
 
+## pipeflare
+- https://pipeflare.io/r/95y4
+- 可获得ZEC, FLR, DOGE
+- 无提现门槛
+
 ## unMineable 
 - https://unmineable.com/?ref=y5cm-s0b8
 - Refer code: y5cm-s0b8

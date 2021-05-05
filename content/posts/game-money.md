@@ -44,7 +44,12 @@ draft: false
 <a href="https://simulatedapeminer.com?r=9634" target="_blank">
 <img src="https://simulatedapeminer.com/build/img/sam_468x68.gif" /></a>
 
-# btcsmash
+## pipeflare
+- https://pipeflare.io/r/95y4
+- 可获得ZEC, FLR, DOGE
+- 无提现门槛
+
+## btcsmash
 https://btcsmash.io/?i=518731
 每3个小时可领取一次，也可做一些任务,游戏稍微有点无聊
 提现额为： 0.035
