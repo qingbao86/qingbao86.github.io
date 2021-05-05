@@ -8,6 +8,8 @@ draft: false
 
 # ethprofitminer
 - https://ethprofitminer.com/?refer=530361
+- Minimum withdraw: 0.005ETH
+- 不建议充值,免费0挖即可
 
 <!--more-->
 

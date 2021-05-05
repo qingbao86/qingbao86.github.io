@@ -6,6 +6,17 @@ description: "数字货币交易平台"
 draft: false
 ---
 
+## Storm Gain
+- 免费挖比特币
+- app.stormgain: https://app.stormgain.com/friend/BNS32412573
+- 每4个小时激活一次
+- 用邀请码注册可得 3USDT
+- 每4个小时激活一次
+- 这个项目是目前最好的一个手机挖矿项目
+- 可以交易
+
+<!--more-->
+
 ## coinbene
 - https://www.coinbene.ren/auth/register?hash=3Nbfvl1
 - Invitation code: 3Nbfvl1
@@ -16,20 +27,10 @@ draft: false
 - https://www.binance.com/zh-CN/register?ref=111031669
 - 数字货币交易平台
 
-<!--more-->
 
 ## 火币网 huobi
 - https://www.huobi.li/zh-cn/topic/invited/?invite_code=7jtd9
 - 邀请码: 7jtd9
-
-## Storm Gain
-- 免费挖比特币
-- app.stormgain: https://app.stormgain.com/friend/BNS32412573
-- 每4个小时激活一次
-- 用邀请码注册可得 3USDT
-- 每4个小时激活一次
-- 这个项目是目前最好的一个手机挖矿项目
-- 可以交易
 
 ## korbit 300
 - https://www.korbit300.com/
