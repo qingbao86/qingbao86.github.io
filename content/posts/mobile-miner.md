@@ -118,6 +118,12 @@ Use my referral code: QINGBAO
 <a href="https://eaglenetwork.app" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428212419821.png" width="240px" /></a>
 
+## Alpha Network
+- https://play.google.com/store/apps/details?id=com.alphanetwork.alphaminer&hl=zh&gl=US
+- Invite code: qingbao
+
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210507145518478.png" width="240px"/>
+
 ## cyberpunk
 - 下载: https://promobileview.cyberpunk.business/#/register?code=B6703700&lang=China
 - 推荐码ID: B6703700
