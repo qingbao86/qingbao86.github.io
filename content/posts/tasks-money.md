@@ -19,6 +19,7 @@ draft: false
 ## alexamaster
 - https://www.alexamaster.net/sec/join.php?id=158478
 - 通过浏览广告或视频赚钱
+- 千万不要将这个网址放到Youtube频道简介上，不然会收到警告的
 
 ## cashmining
 - http://cashmining.xyz/?ref=95502

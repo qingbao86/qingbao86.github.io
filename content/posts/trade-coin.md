@@ -63,4 +63,8 @@ draft: false
 - https://coinlist.co/clt?referral_code=R9CX2J
 - 有免费收入比特币的渠道
 
+## coinsbit
+- https://coinsbit.in/referral/482759a2-40b6-4717-b993-b6fcfd8d26c9
+- 开通KYC后,免费送1000CIN
+
 
