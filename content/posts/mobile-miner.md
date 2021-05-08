@@ -15,6 +15,16 @@ draft: false
 
 <!--more-->
 
+## Storm Gain
+- 免费挖比特币
+- app.stormgain: https://app.stormgain.com/friend/BNS32412573
+- 每4个小时激活一次
+- 用邀请码注册可得 3USDT
+- 每4个小时激活一次
+- 这个项目是目前最好的一个手机挖矿项目
+- 可以交易
+{{< img src="/images/StormGain.jpg" title="" caption="" alt="StormGain" width="240px" position="center" >}}
+
 ## Pi Network
 - 免费挖PI币
 - 注册: https://minepi.com/yubao89
@@ -32,34 +42,6 @@ draft: false
 
 <a href="https://bee1314.com/sc/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428213409314.png" width="240px"/></a>
-
-## Midoin
-- Midoin homepage: https://midoin.link/6DWe
-- invitation code (邀请码): yubaoliu
-- 每24个小时激活一次
-
-<a href="https://midoin.link/6DWe" target="_blank" >
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428221114245.png" width="240px" /> </a>
-
-## Storm Gain
-- 免费挖比特币
-- app.stormgain: https://app.stormgain.com/friend/BNS32412573
-- 每4个小时激活一次
-- 用邀请码注册可得 3USDT
-- 每4个小时激活一次
-- 这个项目是目前最好的一个手机挖矿项目
-- 可以交易
-{{< img src="/images/StormGain.jpg" title="" caption="" alt="StormGain" width="240px" position="center" >}}
-
-
-## Time stope
-- timestope: https://www.timestope.com/yubao
-- 立即加入TIMESTOPE，用自己的时间来获得TIME币
-- 每24个小时激活一次
-- 现在还不能交易
-
-<a href="https://www.timestope.com/yubao" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428211632256.png" width="240px"/></a>
 
 ## Cryptotab browser
 - Cryptotabbrowser: https://cryptotabbrowser.com/20813686
@@ -156,16 +138,6 @@ Hey I have Installed this App. Fastest Dogecoin Faucet on Play Store
 <a href="sperax.io" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428215827878.png" width="240px" /> </a>
 
-## Spotter
-- https://spotterapp.site/download
-- 推荐码: qingbao
-I'm gifting you 1 Sp! Join now Spotter's network using my username as referral (qingbao).
-Spotter is a new digital currency which is growing up to become soon a cryptocurrency. 
-- 每隔一小时更新一次
-
-<a href="https://spotterapp.site/download" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428215359339.png" width="240px"/></a>
-
 ## Reflex cloud mining
 - Download this FREE cloud mining app called: "Reflex Cloud Mining" 
 - link: https://play.google.com/store/apps/details?id=com.reflextoken.cloudmining
@@ -202,15 +174,43 @@ Spotter is a new digital currency which is growing up to become soon a cryptocur
 <a href="http://qz.qzhbjys.vip/register?inviteCode=cl9m0r" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210429071232260.png" width="240px" /></a>
 
+## OKEx　交易所
+- https://www.okex.win/join/7404696
+- 通过活期或定期存款来获取收益，与质压挖矿类似
+
+## Midoin
+- Midoin homepage: https://midoin.link/6DWe
+- invitation code (邀请码): yubaoliu
+- 每24个小时激活一次
+
+<a href="https://midoin.link/6DWe" target="_blank" >
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428221114245.png" width="240px" /> </a>
+
+## Time stope
+- timestope: https://www.timestope.com/yubao
+- 立即加入TIMESTOPE，用自己的时间来获得TIME币
+- 每24个小时激活一次
+- 现在还不能交易
+
+<a href="https://www.timestope.com/yubao" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428211632256.png" width="240px"/></a>
+
+## Spotter
+- https://spotterapp.site/download
+- 推荐码: qingbao
+I'm gifting you 1 Sp! Join now Spotter's network using my username as referral (qingbao).
+Spotter is a new digital currency which is growing up to become soon a cryptocurrency. 
+- 每隔一小时更新一次
+
+<a href="https://spotterapp.site/download" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428215359339.png" width="240px"/></a>
+
+
 ## swapall
 - 邀请码: ji9r02
 - 手机挖矿
 
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210429124556114.png" width="240px"/> 
-
-## OKEx　交易所
-- https://www.okex.win/join/7404696
-- 通过活期或定期存款来获取收益，与质压挖矿类似
 
 ## probit
 - https://www.probit.com/r/99183013
