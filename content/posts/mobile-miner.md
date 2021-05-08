@@ -137,8 +137,18 @@ Use my referral code: QINGBAO
 - http://www.sunflower.news/gwdxdp?bcfhjvxF
 - Invite code (推荐码): 35739159
 - 注册时注意手机号的格式
+- 每天签到
+- 免费挖瑞波币
 
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210508122735416.png" width="240px" />
+
+## Dogecoin
+Hey I have Installed this App. Fastest Dogecoin Faucet on Play Store 
+- https://play.google.com/store/apps/details?id=com.dogecoinfaucet.mobileapp&referrer=hlZLRq0vI1eYd7ehkTXhABcdyvI2
+- 手机挖狗狗币，免费
+- 使用谷歌帐号注册
+
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210508131829414.png" width="240px" />
 
 ## Sperax Play
 - 下载: sperax.io
