@@ -133,6 +133,13 @@ Use my referral code: QINGBAO
 <a href="https://promobileview.cyberpunk.business/#/register?code=B6703700&lang=China" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428214620467.png" width="240px"/> </a>
 
+## Ripple Bank
+- http://www.sunflower.news/gwdxdp?bcfhjvxF
+- Invite code (推荐码): 35739159
+- 注册时注意手机号的格式
+
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210508122735416.png" width="240px" />
+
 ## Sperax Play
 - 下载: sperax.io
 - invitation code: y79bo9
