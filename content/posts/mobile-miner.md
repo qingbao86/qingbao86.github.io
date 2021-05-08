@@ -127,10 +127,15 @@ Use my referral code: QINGBAO
 ## Dogecoin
 Hey I have Installed this App. Fastest Dogecoin Faucet on Play Store 
 - https://play.google.com/store/apps/details?id=com.dogecoinfaucet.mobileapp&referrer=hlZLRq0vI1eYd7ehkTXhABcdyvI2
-- 手机挖狗狗币，免费
+- 手机挖狗狗币，免费, 可交易
 - 使用谷歌帐号注册
 
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210508131829414.png" width="240px" />
+
+## LSKG
+- https://www.lskg-coin.cn/code.php?v=Y1YT1KCJA2
+- 应该可以交易
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210509082558426.png" width="240px" />
 
 ## Sperax Play
 - 下载: sperax.io
