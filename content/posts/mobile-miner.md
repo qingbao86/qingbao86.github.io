@@ -141,8 +141,11 @@ Hey I have Installed this App. Fastest Dogecoin Faucet on Play Store
 - Download from Google app store (下载): https://play.google.com/store/apps/details?id=com.coku.dev&hl=en_US&gl=US
 - Refer code (邀请码): mpzhYcvgFJVVBCyEE24s06eBEev1
 - 使用邀请码可获得赠币
+- 每6个小时激活一次
 
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210509190549741.png" width="240px" />
+
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210509191322101.png" width="240px" />
 
 ## Sperax Play
 - 下载: sperax.io
