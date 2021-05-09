@@ -115,15 +115,6 @@ Use my referral code: QINGBAO
 <a href="https://promobileview.cyberpunk.business/#/register?code=B6703700&lang=China" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428214620467.png" width="240px"/> </a>
 
-## Ripple Bank
-- http://www.sunflower.news/gwdxdp?bcfhjvxF
-- Invite code (推荐码): 35739159
-- 注册时注意手机号的格式
-- 每天签到
-- 免费挖瑞波币
-
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210508122735416.png" width="240px" />
-
 ## Dogecoin
 Hey I have Installed this App. Fastest Dogecoin Faucet on Play Store 
 - https://play.google.com/store/apps/details?id=com.dogecoinfaucet.mobileapp&referrer=hlZLRq0vI1eYd7ehkTXhABcdyvI2
@@ -172,6 +163,12 @@ Hey I have Installed this App. Fastest Dogecoin Faucet on Play Store
 
 <a href="https://mine.vikione.com/auth?invite=qingbao" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428220301623.png" width="240px" ></a>
+
+## libradragon
+- https://h5.libradragon.io/invite.html?code=2464665 
+- 赚取 LDT币
+- 每天签到激活
+
 
 ## korbit 300
 - https://www.korbit300.com/
@@ -244,6 +241,18 @@ Spotter is a new digital currency which is growing up to become soon a cryptocur
 
 <a href="http://app.chaojisuanli.com/addons/invite/invite/inviteShareView?user_id=99442" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428143356527.png" width="240px" /></a>
+
+## Ripple Bank
+- http://www.sunflower.news/gwdxdp?bcfhjvxF
+- Invite code (推荐码): 35739159
+- 注册时注意手机号的格式
+- 每天签到
+- 免费挖瑞波币
+
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210508122735416.png" width="240px" />
+
+LOG:
+- 2021-05-10: 登陆失败，希望是临时的,改天再试试.
 
 
 
