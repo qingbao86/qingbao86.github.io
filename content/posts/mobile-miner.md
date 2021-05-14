@@ -173,12 +173,8 @@ Hey I have Installed this App. Fastest Dogecoin Faucet on Play Store
 
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210508122735416.png" width="240px" />
 
-
-## libradragon
-- https://h5.libradragon.io/invite.html?code=2464665 
-- 赚取 LDT币
-- 每天签到激活
-
+## 賞幣
+只要步行就可以免費換取虛擬貨幣，立即下載「賞幣」吧！[ https://coinluckydraw.com ] 填上我的會員編號：PFde0OPW6
 
 ## korbit 300
 - https://www.korbit300.com/
