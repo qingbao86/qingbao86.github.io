@@ -67,4 +67,8 @@ draft: false
 - https://coinsbit.in/referral/482759a2-40b6-4717-b993-b6fcfd8d26c9
 - 开通KYC后,免费送1000CIN
 
-
+## Pionex
+- 在 Pionex 派網一鍵開啟網格交易，自動低吸高拋，炒幣不再提心吊膽，
+載 Pionex APP 還可以加入無風險網格體驗計畫，
+賺的歸你虧的派網賠： https://www.pionex.com/zh-TW/sign/ref/XC4gZE6n
+- 邀請碼: XC4gZE6n

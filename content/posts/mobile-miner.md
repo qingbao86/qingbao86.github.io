@@ -156,8 +156,7 @@ Hey I have Installed this App. Fastest Dogecoin Faucet on Play Store
 
 ## one network
 - https://mine.vikione.com/auth?invite=qingbao
-- 可能是新项目，目前只有网页版的
-- 酷似Pi network, 所以归类在这里
+- 酷似Pi network
 - 每小时挖矿速度为 1.800 ONE/hr
 - 每6个小时激活一次
 
@@ -174,7 +173,31 @@ Hey I have Installed this App. Fastest Dogecoin Faucet on Play Store
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210508122735416.png" width="240px" />
 
 ## 賞幣
-只要步行就可以免費換取虛擬貨幣，立即下載「賞幣」吧！[ https://coinluckydraw.com ] 填上我的會員編號：PFde0OPW6
+- 只要步行就可以免費換取虛擬貨幣，立即下載「賞幣」吧！[ https://coinluckydraw.com ]
+- 填上我的會員編號：PFde0OPW6
+- 可交易
+- 通过走路来赚 BTC/ETH/BCH/LTC/Dash/ETC/ZEC
+
+## OBetchat
+- Ref code: 20645964
+- Download: https://obetchat.com/android.html
+- 可交易
+
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210514120435076.png" width="240px" />
+
+## Gooddollar
+If you believe, like me, in economic inclusion and the distribution of prosperity for all, 
+then I invite you to sign up for GoodDollar, 
+create your own basic income wallet and start collecting your daily digital income.
+Use my invite link and receive an extra 50G$ bonus
+
+https://wallet.gooddollar.org?inviteCode=jb2yuBjJsL
+
+## Tavecchiacoin
+- Invite code: U7DyH2HoI
+- Android: https://play.google.com/store/apps/details?id=com.tavecchiacoin.finder
+- 1 TAV := $581
+- 应该可交易
 
 ## korbit 300
 - https://www.korbit300.com/
