@@ -215,6 +215,16 @@ https://wallet.gooddollar.org?inviteCode=jb2yuBjJsL
 <a href="http://qz.qzhbjys.vip/register?inviteCode=cl9m0r" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210429071232260.png" width="240px" /></a>
 
+## Catcoin
+- https://catcoin.link/1579828
+
+Catcoin (猫猫币) 是一个使用 RandomX 算法的去中心化货币，与狗狗币不同的是，猫猫币总量有限， 每3年减半.
+(截至目前，猫猫币参与用户已过150万，增速大幅超过 DOGE/SHIB)
+
+## CHA 空投
+- Ref: https://chacoin.org/4cB339b
+- 免费领取空投
+
 ## OKEx　交易所
 - https://www.okex.win/join/7404696
 - 通过活期或定期存款来获取收益，与质压挖矿类似
