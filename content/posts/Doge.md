@@ -21,10 +21,6 @@ draft: false
 - Refferal Link: https://prodogetime.club/r/89142
 - 提现门槛： 10 DOGE
 
-## dogehash
-- https://dogehash.biz/?ref=96431
-- 提现门槛不详，我的级别太低 
-
 ## pipeflare
 - https://pipeflare.io/r/95y4
 - 可获得ZEC, FLR, DOGE
@@ -42,5 +38,9 @@ Hey I have Installed this App. Fastest Dogecoin Faucet on Play Store
 - 使用谷歌帐号注册
 
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210508131829414.png" width="240px" />
+
+## dogehash
+- https://dogehash.biz/?ref=96431
+- 提现门槛不详,可能要先存币才能提现，没试过
 
 

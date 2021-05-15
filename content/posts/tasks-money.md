@@ -12,6 +12,9 @@ draft: false
 
 <!--more-->
 
+## vgivideo
+- https://vgivideo.xyz/363777981606017/
+
 ## rumble
 - https://rumble.com/register/qingbao/
 - 类似于odysee，利用上传视频及视频播放赚取收益

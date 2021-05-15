@@ -20,6 +20,10 @@ draft: false
 - Cryptotabbrowser: https://cryptotabbrowser.com/20813686
 -  一个免费挖比特币的浏览器，支持Windows, MacOS, Android...
 
+## bimine
+- https://bimine.io/index.php?refer=94179
+- 提现最低额度： 0.004BTC
+
 ## free bitcoin
 - https://freebitco.in/?r=41641578
 - 通过抽奖领取比特币
