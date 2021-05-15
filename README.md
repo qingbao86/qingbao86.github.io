@@ -1,10 +1,13 @@
+# Requirement
+- Install go
+https://golang.org/doc/install
 
-#Install hugo
-
-see https://github.com/gohugoio/hugo
+- [Hugo](https://gohugo.io/)
 
 ```sh
-CGO_ENABLED=1 go install --tags extended
+git clone https://github.com/gohugoio/hugo.git
+cd hugo
+go install --tags extended
 ```
 
 # Build
