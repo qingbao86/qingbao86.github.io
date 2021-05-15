@@ -202,8 +202,14 @@ https://wallet.gooddollar.org?inviteCode=jb2yuBjJsL
 ## ShuB 鼠币
  错过了ShiB，千万不要错过ShuB，中文：鼠币，
  ShuB社区的目标 1 ShuBToken = 1 DogeCoin，绰号为DogeCoin杀手，现登记就领取5万个ShuB。
- 领取地址：http://www.ShuBToken.com/dj?uid=38608 
+ 领取地址：http://www.ShuBToken.com/dj?uid=38608
  注意要用币安钱包地址,不然可能会无法验证通过
+
+## LPT
+- LPT (金钱豹) 是一个去中心化货币，与SHIB(💩币)不同的是，金钱豹在BSC链上发行，手续费极低
+- https://kinft.org/airdrop/52062
+- 使用Pocket Tocken 钱包 -> 注册->选择币安
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210515161327761.png" width="240px" />
 
 ## korbit 300
 - https://www.korbit300.com/
