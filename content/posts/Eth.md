@@ -15,3 +15,7 @@ draft: false
 
 {{< img src="/images/ethprofitminer.png" title="ethprofitminer" caption="" alt="ethprofitminer" width="700px" position="center" >}}
 
+## ether-bonus
+- https://ether-bonus.com/?boss=A0BDB705FB9A4A84
+- Log in and get 0.5 ETH
+- 不建议进行充值

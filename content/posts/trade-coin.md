@@ -23,6 +23,11 @@ draft: false
 - 注意： RCOIN/USDT 也是可以在这里交易的
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210505195800197.png" width="240px"/>
 
+## Trading View
+- 最火的金融工具,看盘软件
+- You and your friends (who've never had a TradingView account previously) all get up to $30 each after they upgrade to a paid plan.
+- https://www.tradingview.com/gopro/?share_your_love=yubaoliu89
+
 ## 币安 binance
 - https://www.binance.com/zh-CN/register?ref=111031669
 - 数字货币交易平台
