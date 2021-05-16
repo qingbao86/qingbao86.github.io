@@ -1,19 +1,27 @@
 ---
 title: "领空投币"
-date: 2021-04-30T17:14:13+09:00
+date: 2021-05-01T17:14:13+09:00
 tags:  ["空投币"]
 description: 空投币
 draft: true
 ---
 
+## OKEXCHAIN
+- OKExChain首个聚合挖矿平台
+- OKFarm, OKExChain首批聚合挖矿平台,挖矿利益最大化,就选OKFarm,现登记就领取 3000 个OKFT,预计未来价值100美金以上.
+- 地址: http://OKFarm.org/kt?i=84045 
+
+<!--more-->
+
+##  Pupcoin
+- 小狗币PupCoin，去中心化社区发起的一场革命性实验，我们的目标 1 PupCoin = 1 DogeCoin，现登记就领取 2000 个PupCoin。
+- 地址: http://PupCoin.org/p?uid=293232
 
 ## LPT
 - LPT (金钱豹) 是一个去中心化货币，与SHIB(💩币)不同的是，金钱豹在BSC链上发行，手续费极低
 - https://kinft.org/airdrop/52062
 - 使用Pocket Tocken 钱包 -> 注册->选择币安
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210515161327761.png" width="240px" />
-
-<!--more-->
 
 ## ether-bonus
 - https://ether-bonus.com/?boss=A0BDB705FB9A4A84

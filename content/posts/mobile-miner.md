@@ -1,6 +1,6 @@
 ---
-title: "手机挖矿"
-date: 2021-05-16T17:14:13+09:00
+title: 手机挖矿
+date: 2021-05-15T17:14:13+09:00
 tags: ["手机挖矿"]
 description: 手机挖矿
 draft: false
@@ -49,7 +49,7 @@ draft: false
 - 可以交易, 电脑端的不用每天激活，手机端的须要每隔3个小时左右激活
 
 <a href="https://cryptotabbrowser.com/20813686" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428215323963.png" width="240px" /> </a>
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428215323963.png" width="240px" /></a>
 
 ## bihang 币行
 - http://bihang.chainbank.top/index.html#/?code=LPBlxmg
@@ -113,7 +113,7 @@ Use my referral code: QINGBAO
 - 注册后可以加我的ID进行组队挖矿
 
 <a href="https://promobileview.cyberpunk.business/#/register?code=B6703700&lang=China" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428214620467.png" width="240px"/> </a>
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428214620467.png" width="240px"/></a>
 
 ## Dogecoin
 Hey I have Installed this App. Fastest Dogecoin Faucet on Play Store 
@@ -144,7 +144,7 @@ Hey I have Installed this App. Fastest Dogecoin Faucet on Play Store
 - 下载: sperax.io
 - invitation code: y79bo9
 <a href="sperax.io" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428215827878.png" width="240px" /> </a>
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428215827878.png" width="240px" /></a>
 
 ## Reflex cloud mining
 - Download this FREE cloud mining app called: "Reflex Cloud Mining" 
@@ -154,7 +154,7 @@ Hey I have Installed this App. Fastest Dogecoin Faucet on Play Store
 - 可交易
 
 <a href="https://play.google.com/store/apps/details?id=com.reflextoken.cloudmining" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428215048946.png"  width="240px" /> </a>
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428215048946.png"  width="240px" /></a>
 
 ## one network
 - https://mine.vikione.com/auth?invite=qingbao
