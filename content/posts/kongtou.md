@@ -6,6 +6,10 @@ description: 空投币
 draft: false
 ---
 
+## yfin
+- 1 ETH = 80 YFIN IN TOTAL OF 5,000 YFIN, DISTRIBUTION BASED ON TIME ETH ARRIVED, AND TOKENS ARE ISSUED. INVEST EARLY TO HAVE A GOOD RATE. APPLIED AS FIRST COME FIRST SERVE
+- https://yfin.one/sales/ff2d9b
+
 ## OKEXCHAIN
 - OKExChain首个聚合挖矿平台
 - OKFarm, OKExChain首批聚合挖矿平台,挖矿利益最大化,就选OKFarm,现登记就领取 3000 个OKFT,预计未来价值100美金以上.
