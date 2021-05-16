@@ -1,6 +1,6 @@
 ROOT=`pwd`
 echo $ROOT
-# cd docs && rm -r $(ls -I "CNAME" )
+cd docs && rm -r $(ls -I "CNAME" )
 
 cd $ROOT
 
