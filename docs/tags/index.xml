@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Passive Income</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://freelyearning.com/tags/</link>
     <description>Recent content in Tags on Passive Income</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -17,17 +17,17 @@
     <lastBuildDate>Thu, 13 May 2021 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freelyearning.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>手机挖矿</title>
-        <link>http://localhost:1313/tags/%E6%89%8B%E6%9C%BA%E6%8C%96%E7%9F%BF/</link>
+        <link>https://freelyearning.com/tags/%E6%89%8B%E6%9C%BA%E6%8C%96%E7%9F%BF/</link>
         <pubDate>Thu, 13 May 2021 12:00:06 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/%E6%89%8B%E6%9C%BA%E6%8C%96%E7%9F%BF/</guid>
+        <guid>https://freelyearning.com/tags/%E6%89%8B%E6%9C%BA%E6%8C%96%E7%9F%BF/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -41,11 +41,11 @@
       
       <item>
         <title>Bitcoin</title>
-        <link>http://localhost:1313/tags/bitcoin/</link>
+        <link>https://freelyearning.com/tags/bitcoin/</link>
         <pubDate>Sun, 02 May 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/bitcoin/</guid>
+        <guid>https://freelyearning.com/tags/bitcoin/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -59,11 +59,11 @@
       
       <item>
         <title>空投币</title>
-        <link>http://localhost:1313/tags/%E7%A9%BA%E6%8A%95%E5%B8%81/</link>
+        <link>https://freelyearning.com/tags/%E7%A9%BA%E6%8A%95%E5%B8%81/</link>
         <pubDate>Sat, 01 May 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/%E7%A9%BA%E6%8A%95%E5%B8%81/</guid>
+        <guid>https://freelyearning.com/tags/%E7%A9%BA%E6%8A%95%E5%B8%81/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -77,11 +77,11 @@
       
       <item>
         <title>ads</title>
-        <link>http://localhost:1313/tags/ads/</link>
+        <link>https://freelyearning.com/tags/ads/</link>
         <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/ads/</guid>
+        <guid>https://freelyearning.com/tags/ads/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -95,11 +95,11 @@
       
       <item>
         <title>Doge</title>
-        <link>http://localhost:1313/tags/doge/</link>
+        <link>https://freelyearning.com/tags/doge/</link>
         <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/doge/</guid>
+        <guid>https://freelyearning.com/tags/doge/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -113,11 +113,11 @@
       
       <item>
         <title>Game</title>
-        <link>http://localhost:1313/tags/game/</link>
+        <link>https://freelyearning.com/tags/game/</link>
         <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/game/</guid>
+        <guid>https://freelyearning.com/tags/game/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -131,11 +131,11 @@
       
       <item>
         <title>miner</title>
-        <link>http://localhost:1313/tags/miner/</link>
+        <link>https://freelyearning.com/tags/miner/</link>
         <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/miner/</guid>
+        <guid>https://freelyearning.com/tags/miner/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -149,11 +149,11 @@
       
       <item>
         <title>task</title>
-        <link>http://localhost:1313/tags/task/</link>
+        <link>https://freelyearning.com/tags/task/</link>
         <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/task/</guid>
+        <guid>https://freelyearning.com/tags/task/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -167,11 +167,11 @@
       
       <item>
         <title>Trade</title>
-        <link>http://localhost:1313/tags/trade/</link>
+        <link>https://freelyearning.com/tags/trade/</link>
         <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/trade/</guid>
+        <guid>https://freelyearning.com/tags/trade/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -185,11 +185,11 @@
       
       <item>
         <title>traffic</title>
-        <link>http://localhost:1313/tags/traffic/</link>
+        <link>https://freelyearning.com/tags/traffic/</link>
         <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/traffic/</guid>
+        <guid>https://freelyearning.com/tags/traffic/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -203,11 +203,11 @@
       
       <item>
         <title>Mars</title>
-        <link>http://localhost:1313/tags/mars/</link>
+        <link>https://freelyearning.com/tags/mars/</link>
         <pubDate>Sun, 28 Mar 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/mars/</guid>
+        <guid>https://freelyearning.com/tags/mars/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -221,11 +221,11 @@
       
       <item>
         <title>LPT</title>
-        <link>http://localhost:1313/tags/lpt/</link>
+        <link>https://freelyearning.com/tags/lpt/</link>
         <pubDate>Thu, 18 Mar 2021 17:15:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/lpt/</guid>
+        <guid>https://freelyearning.com/tags/lpt/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -239,11 +239,11 @@
       
       <item>
         <title>ETH</title>
-        <link>http://localhost:1313/tags/eth/</link>
+        <link>https://freelyearning.com/tags/eth/</link>
         <pubDate>Thu, 18 Mar 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/eth/</guid>
+        <guid>https://freelyearning.com/tags/eth/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -257,11 +257,11 @@
       
       <item>
         <title>LTC</title>
-        <link>http://localhost:1313/tags/ltc/</link>
+        <link>https://freelyearning.com/tags/ltc/</link>
         <pubDate>Thu, 18 Mar 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/ltc/</guid>
+        <guid>https://freelyearning.com/tags/ltc/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -275,11 +275,11 @@
       
       <item>
         <title>Others</title>
-        <link>http://localhost:1313/tags/others/</link>
+        <link>https://freelyearning.com/tags/others/</link>
         <pubDate>Thu, 18 Mar 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/others/</guid>
+        <guid>https://freelyearning.com/tags/others/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -293,11 +293,11 @@
       
       <item>
         <title>ShuB</title>
-        <link>http://localhost:1313/tags/shub/</link>
+        <link>https://freelyearning.com/tags/shub/</link>
         <pubDate>Thu, 18 Mar 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/shub/</guid>
+        <guid>https://freelyearning.com/tags/shub/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -311,11 +311,11 @@
       
       <item>
         <title>STPT</title>
-        <link>http://localhost:1313/tags/stpt/</link>
+        <link>https://freelyearning.com/tags/stpt/</link>
         <pubDate>Thu, 18 Mar 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/stpt/</guid>
+        <guid>https://freelyearning.com/tags/stpt/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -329,11 +329,11 @@
       
       <item>
         <title>鼠币</title>
-        <link>http://localhost:1313/tags/%E9%BC%A0%E5%B8%81/</link>
+        <link>https://freelyearning.com/tags/%E9%BC%A0%E5%B8%81/</link>
         <pubDate>Thu, 18 Mar 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/%E9%BC%A0%E5%B8%81/</guid>
+        <guid>https://freelyearning.com/tags/%E9%BC%A0%E5%B8%81/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -347,11 +347,11 @@
       
       <item>
         <title>neo</title>
-        <link>http://localhost:1313/tags/neo/</link>
+        <link>https://freelyearning.com/tags/neo/</link>
         <pubDate>Wed, 18 Mar 2020 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/neo/</guid>
+        <guid>https://freelyearning.com/tags/neo/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -365,11 +365,11 @@
       
       <item>
         <title>Gvoice</title>
-        <link>http://localhost:1313/tags/gvoice/</link>
+        <link>https://freelyearning.com/tags/gvoice/</link>
         <pubDate>Mon, 18 Mar 2019 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/gvoice/</guid>
+        <guid>https://freelyearning.com/tags/gvoice/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -383,11 +383,11 @@
       
       <item>
         <title>WechatOut</title>
-        <link>http://localhost:1313/tags/wechatout/</link>
+        <link>https://freelyearning.com/tags/wechatout/</link>
         <pubDate>Mon, 18 Mar 2019 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/wechatout/</guid>
+        <guid>https://freelyearning.com/tags/wechatout/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -401,11 +401,11 @@
       
       <item>
         <title>index</title>
-        <link>http://localhost:1313/tags/index/</link>
+        <link>https://freelyearning.com/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>http://localhost:1313/tags/index/</guid>
+        <guid>https://freelyearning.com/tags/index/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>

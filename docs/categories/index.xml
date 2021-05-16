@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Passive Income</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://freelyearning.com/categories/</link>
     <description>Recent content in Categories on Passive Income</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freelyearning.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>neo on Passive Income</title>
-    <link>http://localhost:1313/tags/neo/</link>
+    <link>https://freelyearning.com/tags/neo/</link>
     <description>Recent content in neo on Passive Income</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -17,17 +17,17 @@
     <lastBuildDate>Wed, 18 Mar 2020 17:14:13 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="http://localhost:1313/tags/neo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://freelyearning.com/tags/neo/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>挖NEO</title>
-        <link>http://localhost:1313/posts/neo/</link>
+        <link>https://freelyearning.com/posts/neo/</link>
         <pubDate>Wed, 18 Mar 2020 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Wed, 18 Mar 2020 17:14:13 +0900</atom:modified>
-        <guid>http://localhost:1313/posts/neo/</guid>
+        <guid>https://freelyearning.com/posts/neo/</guid>
         <description>freeneo https://freeneo.io/?ref=98536 The minimum is 1 NEO. Please withdraw only full amounts e.g. 1 NEO or 2 NEO because it&amp;rsquo;s impossible to send fractions in the NEO network.</description>
         
         <dc:creator>Qingbao</dc:creator>
