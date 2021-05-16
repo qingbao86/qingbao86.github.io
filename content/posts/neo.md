@@ -1,7 +1,8 @@
 ---
 title: "挖NEO"
 date: 2020-03-18T17:14:13+09:00
-tags:  ["neo"]
+tags:  
+- "neo"
 description: 挖neo币
 draft: false
 ---

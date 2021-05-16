@@ -1,7 +1,8 @@
 ---
 title: "通过玩游戏赚钱"
 date: 2021-04-18T17:14:13+09:00
-tags:  ["Game"]
+tags:  
+- Game
 description: "通过玩游戏赚钱"
 draft: false
 ---

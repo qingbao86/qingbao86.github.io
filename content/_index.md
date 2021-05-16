@@ -27,7 +27,7 @@ header:
     title:
       - Passive Income
     subtitle:
-      - 免费挖矿,实现财富自由
+      - 免费挖矿, 实现财富自由
     titleColor: 
     titleShadow: true
     titleFontSize: 44

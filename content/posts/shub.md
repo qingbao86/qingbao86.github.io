@@ -1,7 +1,9 @@
 ---
 title: "ShuB 鼠币"
 date: 2021-03-18T17:14:13+09:00
-tags:  ["ShuB", "鼠币"]
+tags:  
+- "ShuB"
+- "鼠币"
 description: ShuB 鼠币
 draft: false
 ---

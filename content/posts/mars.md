@@ -1,8 +1,9 @@
 ---
-title: "火星币（MARS）"
+title: "火星币 MARS"
 date: 2021-03-28T17:14:13+09:00
-tags:  ["Mars"]
-description: 挖火星币（MARS）币
+tags:  
+- "Mars"
+description: 挖火星币 MARS 币
 draft: false
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "挖Bitcoin"
 date: 2021-05-02T17:14:13+09:00
-tags: ["Bitcoin"]
+tags: 
+- Bitcoin
 description: 挖比特币
 draft: false
 ---

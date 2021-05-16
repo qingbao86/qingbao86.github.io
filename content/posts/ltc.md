@@ -1,7 +1,8 @@
 ---
 title: "挖LTC"
 date: 2021-03-18T17:14:13+09:00
-tags:  ["LTC"]
+tags:  
+- "LTC"
 description: 挖LTC币
 draft: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: "多币种云挖矿平台"
 date: 2021-04-18T17:14:13+09:00
-tags: ["miner"]
+tags: 
+- "miner"
 description: 多币种云挖矿平台"
 draft: false
 ---

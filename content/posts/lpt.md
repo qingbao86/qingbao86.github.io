@@ -1,7 +1,8 @@
 ---
 title: "LPT"
 date: 2021-03-18T17:15:13+09:00
-tags:  ["LPT"]
+tags: 
+- "LPT"
 description: LPT
 draft: false
 ---
