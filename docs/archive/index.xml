@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Archive on Passive Income</title>
-    <link>https://freelyearning.com/archive/</link>
+    <link>http://localhost:1313/archive/</link>
     <description>Recent content in Archive on Passive Income</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -17,7 +17,7 @@
     <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://freelyearning.com/archive/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/archive/index.xml" rel="self" type="application/rss+xml" />
     
 
       

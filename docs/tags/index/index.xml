@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on Passive Income</title>
-    <link>https://freelyearning.com/tags/index/</link>
+    <link>http://localhost:1313/tags/index/</link>
     <description>Recent content in index on Passive Income</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://freelyearning.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Posts</title>
-        <link>https://freelyearning.com/posts/</link>
-        <pubDate>Sat, 15 May 2021 12:00:06 +0900</pubDate>
+        <link>http://localhost:1313/posts/</link>
+        <pubDate>Thu, 13 May 2021 12:00:06 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         
-        <guid>https://freelyearning.com/posts/</guid>
+        <guid>http://localhost:1313/posts/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>

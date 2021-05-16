@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on Passive Income</title>
-    <link>https://freelyearning.com/gallery/</link>
+    <link>http://localhost:1313/gallery/</link>
     <description>Recent content in Galleries on Passive Income</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -17,21 +17,21 @@
     <lastBuildDate>Thu, 31 Oct 2019 10:20:16 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://freelyearning.com/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/gallery/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Cartoon</title>
-        <link>https://freelyearning.com/gallery/cartoon/</link>
+        <link>http://localhost:1313/gallery/cartoon/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>https://freelyearning.com/gallery/cartoon/</guid>
+        <guid>http://localhost:1313/gallery/cartoon/</guid>
         <description>Sample images from Pixabay</description>
         
         <dc:creator>Qingbao</dc:creator>
-        <media:content url="https://freelyearning.com/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -41,15 +41,15 @@
       
       <item>
         <title>Photo</title>
-        <link>https://freelyearning.com/gallery/photo/</link>
+        <link>http://localhost:1313/gallery/photo/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>https://freelyearning.com/gallery/photo/</guid>
+        <guid>http://localhost:1313/gallery/photo/</guid>
         <description>Sample images from Pixabay</description>
         
         <dc:creator>Qingbao</dc:creator>
-        <media:content url="https://freelyearning.com/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

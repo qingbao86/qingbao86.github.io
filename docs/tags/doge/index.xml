@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Doge on Passive Income</title>
-    <link>https://freelyearning.com/tags/doge/</link>
+    <link>http://localhost:1313/tags/doge/</link>
     <description>Recent content in Doge on Passive Income</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -17,17 +17,17 @@
     <lastBuildDate>Sun, 18 Apr 2021 17:14:13 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://freelyearning.com/tags/doge/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/tags/doge/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>挖狗狗币Doge</title>
-        <link>https://freelyearning.com/posts/doge/</link>
+        <link>http://localhost:1313/posts/doge/</link>
         <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Sun, 18 Apr 2021 17:14:13 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/doge/</guid>
+        <guid>http://localhost:1313/posts/doge/</guid>
         <description>&lt;h2 id=&#34;coin24mining&#34;&gt;coin24mining&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://coin24mining.co/index.php?refer=37699&#34;&gt;https://coin24mining.co/index.php?refer=37699&lt;/a&gt;&lt;/li&gt;

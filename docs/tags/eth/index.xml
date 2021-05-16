@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>ETH on Passive Income</title>
-    <link>https://freelyearning.com/tags/eth/</link>
+    <link>http://localhost:1313/tags/eth/</link>
     <description>Recent content in ETH on Passive Income</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -17,17 +17,17 @@
     <lastBuildDate>Thu, 18 Mar 2021 17:14:13 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://freelyearning.com/tags/eth/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/tags/eth/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>免费挖ETH</title>
-        <link>https://freelyearning.com/posts/eth/</link>
+        <link>http://localhost:1313/posts/eth/</link>
         <pubDate>Thu, 18 Mar 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Thu, 18 Mar 2021 17:14:13 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/eth/</guid>
+        <guid>http://localhost:1313/posts/eth/</guid>
         <description>&lt;h1 id=&#34;ethprofitminer&#34;&gt;ethprofitminer&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://ethprofitminer.com/?refer=530361&#34;&gt;https://ethprofitminer.com/?refer=530361&lt;/a&gt;&lt;/li&gt;

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Bitcoin on Passive Income</title>
-    <link>https://freelyearning.com/tags/bitcoin/</link>
+    <link>http://localhost:1313/tags/bitcoin/</link>
     <description>Recent content in Bitcoin on Passive Income</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -17,17 +17,17 @@
     <lastBuildDate>Sun, 02 May 2021 17:14:13 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://freelyearning.com/tags/bitcoin/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/tags/bitcoin/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>挖Bitcoin</title>
-        <link>https://freelyearning.com/posts/bitcoin/</link>
+        <link>http://localhost:1313/posts/bitcoin/</link>
         <pubDate>Sun, 02 May 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Sun, 02 May 2021 17:14:13 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/bitcoin/</guid>
+        <guid>http://localhost:1313/posts/bitcoin/</guid>
         <description>&lt;h2 id=&#34;storm-gain&#34;&gt;Storm Gain&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;免费挖比特币&lt;/li&gt;

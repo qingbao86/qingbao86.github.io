@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>task on Passive Income</title>
-    <link>https://freelyearning.com/tags/task/</link>
+    <link>http://localhost:1313/tags/task/</link>
     <description>Recent content in task on Passive Income</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -17,17 +17,17 @@
     <lastBuildDate>Sun, 18 Apr 2021 17:14:13 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://freelyearning.com/tags/task/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/tags/task/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>看广告或视频或做任务赚钱</title>
-        <link>https://freelyearning.com/posts/tasks-money/</link>
+        <link>http://localhost:1313/posts/tasks-money/</link>
         <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Sun, 18 Apr 2021 17:14:13 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/tasks-money/</guid>
+        <guid>http://localhost:1313/posts/tasks-money/</guid>
         <description>&lt;h2 id=&#34;odysee&#34;&gt;odysee&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://odysee.com/$/invite/@qingbao:7&#34;&gt;https://odysee.com/$/invite/@qingbao:7&lt;/a&gt;&lt;/li&gt;

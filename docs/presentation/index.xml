@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Presentations on Passive Income</title>
-    <link>https://freelyearning.com/presentation/</link>
+    <link>http://localhost:1313/presentation/</link>
     <description>Recent content in Presentations on Passive Income</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -17,21 +17,21 @@
     <lastBuildDate>Wed, 30 Oct 2019 20:48:10 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://freelyearning.com/presentation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/presentation/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Fourth</title>
-        <link>https://freelyearning.com/presentation/dir/fourth/</link>
+        <link>http://localhost:1313/presentation/dir/fourth/</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Wed, 30 Oct 2019 20:48:10 +0900</atom:modified>
-        <guid>https://freelyearning.com/presentation/dir/fourth/</guid>
+        <guid>http://localhost:1313/presentation/dir/fourth/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
-        <media:content url="https://freelyearning.com/images/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -53,15 +53,15 @@
       
       <item>
         <title>Third</title>
-        <link>https://freelyearning.com/presentation/third/</link>
+        <link>http://localhost:1313/presentation/third/</link>
         <pubDate>Wed, 30 Oct 2019 20:46:30 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Wed, 30 Oct 2019 20:46:30 +0900</atom:modified>
-        <guid>https://freelyearning.com/presentation/third/</guid>
+        <guid>http://localhost:1313/presentation/third/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
-        <media:content url="https://freelyearning.com/images/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -83,15 +83,15 @@
       
       <item>
         <title>Second</title>
-        <link>https://freelyearning.com/presentation/second/</link>
+        <link>http://localhost:1313/presentation/second/</link>
         <pubDate>Wed, 30 Oct 2019 20:45:24 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Wed, 30 Oct 2019 20:45:24 +0900</atom:modified>
-        <guid>https://freelyearning.com/presentation/second/</guid>
+        <guid>http://localhost:1313/presentation/second/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
-        <media:content url="https://freelyearning.com/images/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -113,15 +113,15 @@
       
       <item>
         <title>First</title>
-        <link>https://freelyearning.com/presentation/first/</link>
+        <link>http://localhost:1313/presentation/first/</link>
         <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Wed, 30 Oct 2019 19:45:20 +0900</atom:modified>
-        <guid>https://freelyearning.com/presentation/first/</guid>
+        <guid>http://localhost:1313/presentation/first/</guid>
         <description></description>
         
         <dc:creator>Qingbao</dc:creator>
-        <media:content url="https://freelyearning.com/images/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

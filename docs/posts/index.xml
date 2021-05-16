@@ -7,27 +7,27 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Posts on Passive Income</title>
-    <link>https://freelyearning.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Passive Income</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>yubaoshare@gmail.com (Qingbao)</managingEditor>
     <webMaster>yubaoshare@gmail.com (Qingbao)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 15 May 2021 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 May 2021 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://freelyearning.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>手机挖矿</title>
-        <link>https://freelyearning.com/posts/mobile-miner/</link>
-        <pubDate>Sat, 15 May 2021 12:00:06 +0900</pubDate>
+        <link>http://localhost:1313/posts/mobile-miner/</link>
+        <pubDate>Thu, 13 May 2021 12:00:06 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
-        <atom:modified>Sat, 15 May 2021 12:00:06 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/mobile-miner/</guid>
+        <atom:modified>Thu, 13 May 2021 12:00:06 +0900</atom:modified>
+        <guid>http://localhost:1313/posts/mobile-miner/</guid>
         <description>&lt;h1 id=&#34;免费手机挖矿平台总结&#34;&gt;免费手机挖矿平台总结&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;每隔一段时间登陆或激活一次&lt;/li&gt;
@@ -54,11 +54,11 @@
       
       <item>
         <title>挖Bitcoin</title>
-        <link>https://freelyearning.com/posts/bitcoin/</link>
+        <link>http://localhost:1313/posts/bitcoin/</link>
         <pubDate>Sun, 02 May 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Sun, 02 May 2021 17:14:13 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/bitcoin/</guid>
+        <guid>http://localhost:1313/posts/bitcoin/</guid>
         <description>&lt;h2 id=&#34;storm-gain&#34;&gt;Storm Gain&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;免费挖比特币&lt;/li&gt;
@@ -82,11 +82,11 @@
       
       <item>
         <title>利用流量赚钱的工具</title>
-        <link>https://freelyearning.com/posts/network-traffic-money/</link>
+        <link>http://localhost:1313/posts/network-traffic-money/</link>
         <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Sun, 18 Apr 2021 17:14:13 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/network-traffic-money/</guid>
+        <guid>http://localhost:1313/posts/network-traffic-money/</guid>
         <description>&lt;h2 id=&#34;honeygain&#34;&gt;honeygain&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://r.honeygain.me/YUBAO74990&#34;&gt;https://r.honeygain.me/YUBAO74990&lt;/a&gt;&lt;/li&gt;
@@ -110,11 +110,11 @@
       
       <item>
         <title>多币种云挖矿平台</title>
-        <link>https://freelyearning.com/posts/multiple-miner/</link>
+        <link>http://localhost:1313/posts/multiple-miner/</link>
         <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Sun, 18 Apr 2021 17:14:13 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/multiple-miner/</guid>
+        <guid>http://localhost:1313/posts/multiple-miner/</guid>
         <description>&lt;h2 id=&#34;rollercoin&#34;&gt;Rollercoin&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://rollercoin.com/?r=knl79zam&#34;&gt;https://rollercoin.com/?r=knl79zam&lt;/a&gt;&lt;/li&gt;
@@ -138,11 +138,11 @@
       
       <item>
         <title>挖狗狗币Doge</title>
-        <link>https://freelyearning.com/posts/doge/</link>
+        <link>http://localhost:1313/posts/doge/</link>
         <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Sun, 18 Apr 2021 17:14:13 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/doge/</guid>
+        <guid>http://localhost:1313/posts/doge/</guid>
         <description>&lt;h2 id=&#34;coin24mining&#34;&gt;coin24mining&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://coin24mining.co/index.php?refer=37699&#34;&gt;https://coin24mining.co/index.php?refer=37699&lt;/a&gt;&lt;/li&gt;
@@ -166,11 +166,11 @@
       
       <item>
         <title>数字货币交易平台/钱包地址</title>
-        <link>https://freelyearning.com/posts/trade-coin/</link>
+        <link>http://localhost:1313/posts/trade-coin/</link>
         <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Sun, 18 Apr 2021 17:14:13 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/trade-coin/</guid>
+        <guid>http://localhost:1313/posts/trade-coin/</guid>
         <description>&lt;h2 id=&#34;storm-gain&#34;&gt;Storm Gain&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;免费挖比特币&lt;/li&gt;
@@ -199,11 +199,11 @@
       
       <item>
         <title>看广告或视频或做任务赚钱</title>
-        <link>https://freelyearning.com/posts/tasks-money/</link>
+        <link>http://localhost:1313/posts/tasks-money/</link>
         <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Sun, 18 Apr 2021 17:14:13 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/tasks-money/</guid>
+        <guid>http://localhost:1313/posts/tasks-money/</guid>
         <description>&lt;h2 id=&#34;odysee&#34;&gt;odysee&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://odysee.com/$/invite/@qingbao:7&#34;&gt;https://odysee.com/$/invite/@qingbao:7&lt;/a&gt;&lt;/li&gt;
@@ -235,11 +235,11 @@
       
       <item>
         <title>通过玩游戏赚钱</title>
-        <link>https://freelyearning.com/posts/game-money/</link>
+        <link>http://localhost:1313/posts/game-money/</link>
         <pubDate>Sun, 18 Apr 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Sun, 18 Apr 2021 17:14:13 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/game-money/</guid>
+        <guid>http://localhost:1313/posts/game-money/</guid>
         <description>&lt;h2 id=&#34;rollercoin&#34;&gt;Rollercoin&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://rollercoin.com/?r=knl79zam&#34;&gt;https://rollercoin.com/?r=knl79zam&lt;/a&gt;&lt;/li&gt;
@@ -264,11 +264,11 @@
       
       <item>
         <title>火星币 MARS</title>
-        <link>https://freelyearning.com/posts/mars/</link>
+        <link>http://localhost:1313/posts/mars/</link>
         <pubDate>Sun, 28 Mar 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Sun, 28 Mar 2021 17:14:13 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/mars/</guid>
+        <guid>http://localhost:1313/posts/mars/</guid>
         <description>&lt;p&gt;火星币（MARS），幽灵链（Fantom Blockchain）上第一个黑洞协议项目，限时免费领取上千加密货币。&lt;/p&gt;</description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -288,11 +288,11 @@
       
       <item>
         <title>LPT</title>
-        <link>https://freelyearning.com/posts/lpt/</link>
+        <link>http://localhost:1313/posts/lpt/</link>
         <pubDate>Thu, 18 Mar 2021 17:15:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Thu, 18 Mar 2021 17:15:13 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/lpt/</guid>
+        <guid>http://localhost:1313/posts/lpt/</guid>
         <description>&lt;h2 id=&#34;lpt&#34;&gt;LPT&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;LPT (金钱豹) 是一个去中心化货币，与SHIB不同的是，金钱豹在BSC链上发行，手续费极低&lt;/li&gt;
@@ -315,11 +315,11 @@
       
       <item>
         <title>ShuB 鼠币</title>
-        <link>https://freelyearning.com/posts/shub/</link>
+        <link>http://localhost:1313/posts/shub/</link>
         <pubDate>Thu, 18 Mar 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Thu, 18 Mar 2021 17:14:13 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/shub/</guid>
+        <guid>http://localhost:1313/posts/shub/</guid>
         <description>&lt;h2 id=&#34;shub-鼠币&#34;&gt;ShuB 鼠币&lt;/h2&gt;
 &lt;p&gt;错过了ShiB，千万不要错过ShuB，中文：鼠币，&lt;/p&gt;</description>
         
@@ -344,11 +344,11 @@
       
       <item>
         <title>免费挖ETH</title>
-        <link>https://freelyearning.com/posts/eth/</link>
+        <link>http://localhost:1313/posts/eth/</link>
         <pubDate>Thu, 18 Mar 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Thu, 18 Mar 2021 17:14:13 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/eth/</guid>
+        <guid>http://localhost:1313/posts/eth/</guid>
         <description>&lt;h1 id=&#34;ethprofitminer&#34;&gt;ethprofitminer&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://ethprofitminer.com/?refer=530361&#34;&gt;https://ethprofitminer.com/?refer=530361&lt;/a&gt;&lt;/li&gt;
@@ -373,11 +373,11 @@
       
       <item>
         <title>其它赚钱平台</title>
-        <link>https://freelyearning.com/posts/other-money/</link>
+        <link>http://localhost:1313/posts/other-money/</link>
         <pubDate>Thu, 18 Mar 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Thu, 18 Mar 2021 17:14:13 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/other-money/</guid>
+        <guid>http://localhost:1313/posts/other-money/</guid>
         <description>&lt;h2 id=&#34;blockzone&#34;&gt;Blockzone&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;STPT&lt;/li&gt;
@@ -406,11 +406,11 @@
       
       <item>
         <title>挖LTC</title>
-        <link>https://freelyearning.com/posts/ltc/</link>
+        <link>http://localhost:1313/posts/ltc/</link>
         <pubDate>Thu, 18 Mar 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Thu, 18 Mar 2021 17:14:13 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/ltc/</guid>
+        <guid>http://localhost:1313/posts/ltc/</guid>
         <description>&lt;h2 id=&#34;ltcminer&#34;&gt;ltcminer&lt;/h2&gt;</description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -430,11 +430,11 @@
       
       <item>
         <title>挖NEO</title>
-        <link>https://freelyearning.com/posts/neo/</link>
+        <link>http://localhost:1313/posts/neo/</link>
         <pubDate>Wed, 18 Mar 2020 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Wed, 18 Mar 2020 17:14:13 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/neo/</guid>
+        <guid>http://localhost:1313/posts/neo/</guid>
         <description>freeneo https://freeneo.io/?ref=98536 The minimum is 1 NEO. Please withdraw only full amounts e.g. 1 NEO or 2 NEO because it&amp;rsquo;s impossible to send fractions in the NEO network.</description>
         
         <dc:creator>Qingbao</dc:creator>
@@ -454,11 +454,11 @@
       
       <item>
         <title>Google Voice 使用方法及Wechatout注册</title>
-        <link>https://freelyearning.com/posts/google-voice/</link>
+        <link>http://localhost:1313/posts/google-voice/</link>
         <pubDate>Mon, 18 Mar 2019 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Mon, 18 Mar 2019 17:14:13 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/google-voice/</guid>
+        <guid>http://localhost:1313/posts/google-voice/</guid>
         <description>&lt;h2 id=&#34;google-voice-使用方法&#34;&gt;Google Voice 使用方法&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Google Voice 注册&lt;/li&gt;

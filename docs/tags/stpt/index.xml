@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>STPT on Passive Income</title>
-    <link>https://freelyearning.com/tags/stpt/</link>
+    <link>http://localhost:1313/tags/stpt/</link>
     <description>Recent content in STPT on Passive Income</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -17,17 +17,17 @@
     <lastBuildDate>Thu, 18 Mar 2021 17:14:13 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://freelyearning.com/tags/stpt/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/tags/stpt/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>其它赚钱平台</title>
-        <link>https://freelyearning.com/posts/other-money/</link>
+        <link>http://localhost:1313/posts/other-money/</link>
         <pubDate>Thu, 18 Mar 2021 17:14:13 +0900</pubDate>
         <author>yubaoshare@gmail.com (Qingbao)</author>
         <atom:modified>Thu, 18 Mar 2021 17:14:13 +0900</atom:modified>
-        <guid>https://freelyearning.com/posts/other-money/</guid>
+        <guid>http://localhost:1313/posts/other-money/</guid>
         <description>&lt;h2 id=&#34;blockzone&#34;&gt;Blockzone&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;STPT&lt;/li&gt;
