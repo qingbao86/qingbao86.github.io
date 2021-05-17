@@ -48,11 +48,6 @@ https://btcsmash.io/?i=518731
 每3个小时可领取一次，也可做一些任务,游戏稍微有点无聊
 提现额为： 0.035
 
-## libradragon
-- https://h5.libradragon.io/invite.html?code=2464665 
-- 赚取 LDT币
-- 手机小游戏
-
 ## 悬赏猫
 <img alt="XuanShangMao" src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/XuanShangMao.png" width="320px" />
 
@@ -85,4 +80,11 @@ https://btcsmash.io/?i=518731
 
 <a href="http://n27.borgstudio90.com/service_earn/api/v2/1C197CdQeO" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428152456000.png" width="320px" /></a>
+
+## libradragon
+- https://h5.libradragon.io/invite.html?code=2464665 
+- 赚取 LDT币
+- 手机小游戏
+- 平台不太稳定，我的龙突然消息了(2021-05)
+
 

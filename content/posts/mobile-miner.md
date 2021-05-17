@@ -26,6 +26,14 @@ draft: false
 - 可以交易
 {{< img src="/images/StormGain.jpg" title="" caption="" alt="StormGain" width="240px" position="center" >}}
 
+## Cryptotab browser
+- Cryptotabbrowser: https://cryptotabbrowser.com/20813686
+- 一个免费挖比特币的浏览器，支持Windows, MacOS, Android...
+- 可以交易, 电脑端的不用每天激活，手机端的须要每隔3个小时左右激活
+
+<a href="https://cryptotabbrowser.com/20813686" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428215323963.png" width="240px" /></a>
+
 ## Pi Network
 - 免费挖PI币
 - 注册: https://minepi.com/yubao89
@@ -43,14 +51,6 @@ draft: false
 
 <a href="https://bee1314.com/sc/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428213409314.png" width="240px"/></a>
-
-## Cryptotab browser
-- Cryptotabbrowser: https://cryptotabbrowser.com/20813686
-- 一个免费挖比特币的浏览器，支持Windows, MacOS, Android...
-- 可以交易, 电脑端的不用每天激活，手机端的须要每隔3个小时左右激活
-
-<a href="https://cryptotabbrowser.com/20813686" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428215323963.png" width="240px" /></a>
 
 ## bihang 币行
 - http://bihang.chainbank.top/index.html#/?code=LPBlxmg
@@ -112,17 +112,10 @@ Use my referral code: QINGBAO
 - 推荐码ID: B6703700
 - 可以交易
 - 注册后可以加我的ID进行组队挖矿
+- 最近平台在更新 (2021-05)
 
 <a href="https://promobileview.cyberpunk.business/#/register?code=B6703700&lang=China" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428214620467.png" width="240px"/></a>
-
-## Dogecoin
-Hey I have Installed this App. Fastest Dogecoin Faucet on Play Store 
-- https://play.google.com/store/apps/details?id=com.dogecoinfaucet.mobileapp&referrer=hlZLRq0vI1eYd7ehkTXhABcdyvI2
-- 手机挖狗狗币，免费, 可交易
-- 使用谷歌帐号注册
-
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210508131829414.png" width="240px" />
 
 ## LSKG
 - https://www.lskg-coin.cn/code.php?v=Y1YT1KCJA2
@@ -267,6 +260,15 @@ Spotter is a new digital currency which is growing up to become soon a cryptocur
 <a href="https://spotterapp.site/download" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428215359339.png" width="240px"/></a>
 
+## Dogecoin
+Hey I have Installed this App. Fastest Dogecoin Faucet on Play Store 
+- https://play.google.com/store/apps/details?id=com.dogecoinfaucet.mobileapp&referrer=hlZLRq0vI1eYd7ehkTXhABcdyvI2
+- 手机挖狗狗币，免费, 可交易
+- 使用谷歌帐号注册
+- 不太清楚如何充能
+
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210508131829414.png" width="240px" />
+
 
 ## swapall
 - 邀请码: ji9r02
@@ -291,3 +293,4 @@ Spotter is a new digital currency which is growing up to become soon a cryptocur
 
 <a href="http://app.chaojisuanli.com/addons/invite/invite/inviteShareView?user_id=99442" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428143356527.png" width="240px" /></a>
+
