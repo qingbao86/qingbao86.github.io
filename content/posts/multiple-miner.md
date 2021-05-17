@@ -7,12 +7,16 @@ description: 多币种云挖矿平台"
 draft: false
 ---
 
+## mineex
+- https://mineex.biz/ref/qingbao
+- BTC, DOGE, ETH, ...
+
+<!--more-->
 
 ## Rollercoin
 - https://rollercoin.com/?r=knl79zam
 - BTC, DOGE, ETH, ...
 
-<!--more-->
 
 ## cryptoplace
 - https://cryptoplace.cloud/?ref=yubaoshare
