@@ -37,6 +37,7 @@ draft: false
 ## 币安 binance
 - https://www.binance.com/zh-CN/register?ref=111031669
 - 数字货币交易平台
+- 存币生息
 
 
 ## 火币网 huobi
