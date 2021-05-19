@@ -47,6 +47,11 @@ draft: false
 - Telegram: https://t.me/projectmars_ftm
 - Discord: https://discord.gg/XeTZEjtbZC
 
+## Hi币
+- https://hi.com/qingbao
+- 每天可获得 25 hi Dollars
+- 领取方法：点击Telegram按提示领取
+
 ## 注意事项
 - 如果提示验证码错误，尝试别的浏览器
 - 不对平台的稳定性做任何保证
