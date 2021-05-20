@@ -13,6 +13,16 @@ draft: false
 
 <!--more-->
 
+## Catcoin 猫猫币
+- https://catcoin.link/1579828
+
+Catcoin (猫猫币) 是一个使用 RandomX 算法的去中心化货币，与狗狗币不同的是，猫猫币总量有限， 每3年减半.
+(截至目前，猫猫币参与用户已过150万，增速大幅超过 DOGE/SHIB)
+
+## CHA 空投
+- Ref: https://chacoin.org/4cB339b
+- 免费领取空投
+
 ## yfin
 - 1 ETH = 80 YFIN IN TOTAL OF 5,000 YFIN, DISTRIBUTION BASED ON TIME ETH ARRIVED, AND TOKENS ARE ISSUED. INVEST EARLY TO HAVE A GOOD RATE. APPLIED AS FIRST COME FIRST SERVE
 - https://yfin.one/sales/ff2d9b
