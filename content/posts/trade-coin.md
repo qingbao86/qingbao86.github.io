@@ -23,7 +23,7 @@ draft: false
 - Ref: https://www.ztbzh.org/mobile?r_user_id=E5T860VLN
 - 送100个BONBON币,以官方通知为准
 
-## W全球站
+## W全球站 交易所
 - 邀请码：QWQLQHGH
 - https://m.kd.club/zh_CN/register?inviteCode=QWQLQHGH
 
@@ -32,6 +32,13 @@ W全球站免费领NIUB
 2.每邀请1个好友再领20万NIUB
 注：完成实名后3小时内自动到账
 截止时间：2021.05.28. 24:00
+
+##  zhidian 交易所
+- https://m.zhidian.io/zh_CN/register?inviteCode=QWQLQHWT
+- 邀请码： QWQLQHWT
+
+注册并实名即送20万DOG邀请好友实名并交易DOG满10USDT，邀请者和被邀请者均可获得100万DOG奖励，邀请者父级奖励20万DOG。
+注：所有奖励三天内到账, 活动内容请参考官方通知，我的这个网页可能不能及时更新。
 
 ## coinbene
 - https://www.coinbene.ren/auth/register?hash=3Nbfvl1
