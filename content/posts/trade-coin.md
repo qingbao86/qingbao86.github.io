@@ -21,6 +21,17 @@ draft: false
 ## ZT  Global 交易所
 - 邀请码： E5T860VLN
 - Ref: https://www.ztbzh.org/mobile?r_user_id=E5T860VLN
+- 送100个BONBON币,以官方通知为准
+
+## W全球站
+- 邀请码：QWQLQHGH
+- https://m.kd.club/zh_CN/register?inviteCode=QWQLQHGH
+
+W全球站免费领NIUB
+1.新用户实名注册免费领50万NIUB
+2.每邀请1个好友再领20万NIUB
+注：完成实名后3小时内自动到账
+截止时间：2021.05.28. 24:00
 
 ## coinbene
 - https://www.coinbene.ren/auth/register?hash=3Nbfvl1
