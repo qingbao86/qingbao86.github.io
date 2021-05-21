@@ -21,7 +21,6 @@ draft: false
 ## ZT  Global 交易所
 - 邀请码： E5T860VLN
 - Ref: https://www.ztbzh.org/mobile?r_user_id=E5T860VLN
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210517194416648.png" width="240px"/>
 
 ## coinbene
 - https://www.coinbene.ren/auth/register?hash=3Nbfvl1

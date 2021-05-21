@@ -34,6 +34,13 @@ draft: false
 <a href="https://cryptotabbrowser.com/20813686" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428215323963.png" width="240px" /></a>
 
+##  BTCs 中本聪 挖矿
+- https://www.btc2100-p.com/minex/?1ou73
+- 赠力卡 s3gx5r s5sbdu s82qnv sab4wy sckh72 sqxgga snp487 skdpy5 sh5aq2
+- BTCs, BTC, ETH
+
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210521163345556.png" width="240" />
+
 ## Pi Network
 - 免费挖PI币
 - 注册: https://minepi.com/yubao89
