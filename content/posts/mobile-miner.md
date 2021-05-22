@@ -19,9 +19,7 @@ draft: false
 ## Storm Gain
 - 免费挖比特币
 - app.stormgain: https://app.stormgain.com/friend/BNS32412573
-- 每4个小时激活一次
 - 用邀请码注册可得 3USDT
-- 每4个小时激活一次
 - 这个项目是目前最好的一个手机挖矿项目
 - 可以交易
 {{< img src="/images/StormGain.jpg" title="" caption="" alt="StormGain" width="240px" position="center" >}}

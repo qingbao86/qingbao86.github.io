@@ -10,9 +10,7 @@ draft: false
 ## Storm Gain
 - 免费挖比特币
 - app.stormgain: https://app.stormgain.com/friend/BNS32412573
-- 每4个小时激活一次
 - 用邀请码注册可得 3USDT
-- 每4个小时激活一次
 - 这个项目是目前最好的一个手机挖矿项目
 - 可以交易
 
@@ -51,6 +49,10 @@ W全球站免费领NIUB
 - You and your friends (who've never had a TradingView account previously) all get up to $30 each after they upgrade to a paid plan.
 - https://www.tradingview.com/gopro/?share_your_love=yubaoliu89
 
+## 3commas
+- 自动交易机器人
+- https://3commas.io/?c=tc532118
+
 ## 币安 binance
 - https://www.binance.com/zh-CN/register?ref=111031669
 - 数字货币交易平台
@@ -87,6 +89,9 @@ W全球站免费领NIUB
 
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210429124556114.png" width="240px"/> 
 
+## gatecn 芝麻开门
+- https://www.gatecn.io/signup/5612298
+
 ## probit
 - https://www.probit.com/r/99183013
 - 交易挖矿
@@ -104,6 +109,10 @@ W全球站免费领NIUB
 載 Pionex APP 還可以加入無風險網格體驗計畫，
 賺的歸你虧的派網賠： https://www.pionex.com/zh-TW/sign/ref/XC4gZE6n
 - 邀請碼: XC4gZE6n
+
+## Hcoin 好币
+- https://www.hcoin86.me/j/p1dpp
+
 
 ## Pocket Tocken
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210515161327761.png" width="240px" />
