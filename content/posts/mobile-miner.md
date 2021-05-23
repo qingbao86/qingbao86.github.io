@@ -262,6 +262,11 @@ Spotter is a new digital currency which is growing up to become soon a cryptocur
 <a href="https://spotterapp.site/download" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428215359339.png" width="240px"/></a>
 
+## HWT
+- 推荐码: 6tfYAg
+- https://www.hofewart.com/index/publics/register.html
+- 送基础算力 100K
+
 ## Dogecoin
 Hey I have Installed this App. Fastest Dogecoin Faucet on Play Store 
 - https://play.google.com/store/apps/details?id=com.dogecoinfaucet.mobileapp&referrer=hlZLRq0vI1eYd7ehkTXhABcdyvI2
