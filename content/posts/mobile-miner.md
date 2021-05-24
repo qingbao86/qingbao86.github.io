@@ -7,30 +7,55 @@ description: 手机挖矿
 draft: false
 ---
 
-# 免费手机挖矿平台总结
-- 每隔一段时间登陆或激活一次
-- 免费
-- 不建议充值
-- 使用的邀请码或的邀请链接注册大都会有奖励,互惠互利
-- 如果链接打不开的话，尝试使用外网
-
-<!--more-->
-
 ## Storm Gain
 - 免费挖比特币
 - app.stormgain: https://app.stormgain.com/friend/BNS32412573
 - 用邀请码注册可得 3USDT
 - 这个项目是目前最好的一个手机挖矿项目
-- 可以交易
+- 可以提现，可以交易
 {{< img src="/images/StormGain.jpg" title="" caption="" alt="StormGain" width="240px" position="center" >}}
+
+<!--more-->
 
 ## Cryptotab browser
 - Cryptotabbrowser: https://cryptotabbrowser.com/20813686
 - 一个免费挖比特币的浏览器，支持Windows, MacOS, Android...
-- 可以交易, 电脑端的不用每天激活，手机端的须要每隔3个小时左右激活
+- 电脑端的不用每天激活，手机端的须要每隔3个小时左右激活
+- 可以提现，可以交易
 
 <a href="https://cryptotabbrowser.com/20813686" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428215323963.png" width="240px" /></a>
+
+## PHT
+- 下载: https://play.google.com/store/apps/details?id=com.cloud.earning
+- 邀请码: azw3ngcc
+- 使用邀请码注册可以直接获取200PHT
+- 每一周激活一次
+- 可以提现，可以交易
+- Sign up now and get 200 PHT Bonus.
+- Use my code and claim your bonus (推荐码): azw3ngcc
+
+<a href="https://play.google.com/store/apps/details?id=com.cloud.earning" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428213745319.png" width="240px" /></a>
+
+## QZ交易所 
+- http://reg.toshare.club/register?inviteCode=cl9m0r
+- 邀请码: cl9m0r
+- 送矿机，免费挖2个月
+- 注册即送送4000USD，不过处于冻结状态，需要交易才能解冻
+- 可以提现，可以交易
+
+<a href="http://reg.toshare.club/register?inviteCode=cl9m0r" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210429071232260.png" width="240px" /></a>
+
+## Obpulus  欧贝
+- Ref code: 20645964
+- Download: https://obetchat.com/android.html
+- 可以提现，可以交易
+
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210514120435076.png" width="240px" />
+
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210516112927270.png" width="240px" />
 
 ##  BTCs 中本聪 挖矿
 - https://www.btc2100-p.com/minex/?1ou73
@@ -72,18 +97,6 @@ draft: false
 
 <a href="https://play.google.com/store/apps/details?id=com.creativeoffice.ripcoin&hl=tr&gl=US" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428214804610.png" width="240px"/></a>
-
-## PHT
-- 下载: https://play.google.com/store/apps/details?id=com.cloud.earning
-- 邀请码: azw3ngcc
-- 使用邀请码注册可以直接获取200PHT
-- 每一周激活一次
-- 这个币种已经可以交易
-- Sign up now and get 200 PHT Bonus.
-- Use my code and claim your bonus (推荐码): azw3ngcc
-
-<a href="https://play.google.com/store/apps/details?id=com.cloud.earning" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428213745319.png" width="240px" /></a>
 
 ## Gemini Network
 - Download app from Google Play https://play.google.com/store/apps/details?id=com.gemininetwork
@@ -174,21 +187,13 @@ Use my referral code: QINGBAO
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210508122735416.png" width="240px" />
 
 ## 賞幣
-- 只要步行就可以免費換取虛擬貨幣，立即下載「賞幣」吧！[ https://coinluckydraw.com ]
+- 只要步行就可以免費換取虛擬貨幣，立即下載「賞幣」吧
+- https://coinluckydraw.com
 - 填上我的會員編號：PFde0OPW6
 - 可交易
 - 通过走路来赚 BTC/ETH/BCH/LTC/Dash/ETC/ZEC
 
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210516115035068.png" width="240px" />
-
-## Obpulus  欧贝
-- Ref code: 20645964
-- Download: https://obetchat.com/android.html
-- 可交易
-
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210514120435076.png" width="240px" />
-
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210516112927270.png" width="240px" />
 
 ## Gooddollar
 If you believe, like me, in economic inclusion and the distribution of prosperity for all, 
@@ -207,15 +212,6 @@ https://wallet.gooddollar.org?inviteCode=jb2yuBjJsL
 - 应该可交易
 
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210516114826301.png" width="240px"/>
-
-## QZ交易所 
-- http://reg.toshare.club/register?inviteCode=cl9m0r
-- 邀请码: cl9m0r
-- 送矿机，免费挖2个月
-- 送4000USD，不过处于冻结状态，需要交易才能解冻
-
-<a href="http://reg.toshare.club/register?inviteCode=cl9m0r" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210429071232260.png" width="240px" /></a>
 
 ## mncoin
 - http://www.mncoin.one/#/register?code=0HWXX
@@ -300,4 +296,12 @@ Hey I have Installed this App. Fastest Dogecoin Faucet on Play Store
 
 <a href="http://app.chaojisuanli.com/addons/invite/invite/inviteShareView?user_id=99442" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428143356527.png" width="240px" /></a>
+
+# 免费手机挖矿平台总结
+- 每隔一段时间登陆或激活一次
+- 免费
+- 不建议充值
+- 使用的邀请码或的邀请链接注册大都会有奖励,互惠互利
+- 如果链接打不开的话，尝试使用外网
+- 如果链接失效，等待几天再重试,并请通知博主,谢谢
 

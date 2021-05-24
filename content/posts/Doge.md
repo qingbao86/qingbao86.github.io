@@ -44,4 +44,8 @@ Hey I have Installed this App. Fastest Dogecoin Faucet on Play Store
 - https://dogehash.biz/?ref=96431
 - 提现门槛不详,可能要先存币才能提现，没试过
 
+# 注意
+- 不建议充值
+- 平台有无法正常工作的可能
+- 本人不知道是否能提现,如果您有尝试过，请联系博主，谢谢
 

@@ -49,5 +49,8 @@ draft: false
 
 <a href="https://btcsmash.io/?i=518731" target="_blank"><img src="https://btcsmash.io/images/foursixeight.gif" border="0"></a>
 
-
+# 注意
+- 不建议充值
+- 平台有无法正常工作的可能
+- 本人不知道是否能提现,如果您有尝试过，请联系博主，谢谢
 

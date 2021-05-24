@@ -89,5 +89,6 @@ http://s5j.net/bi6g3
 - https://www.zareklamy.com/ad?r=yubaoshare
 - 做任务
 
-
-
+# 注意
+- 不建议充值
+- 本人不知道是否能提现,如果您有尝试过，请联系博主，谢谢
