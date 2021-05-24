@@ -45,9 +45,6 @@ draft: false
 - 注册即送送4000USD，不过处于冻结状态，需要交易才能解冻
 - 可以提现，可以交易
 
-<a href="http://reg.toshare.club/register?inviteCode=cl9m0r" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210429071232260.png" width="240px" /></a>
-
 ## Obpulus  欧贝
 - Ref code: 20645964
 - Download: https://obetchat.com/android.html

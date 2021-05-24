@@ -80,10 +80,6 @@ W全球站免费领NIUB
 - 送矿机，免费挖2个月
 - 送4000USD，不过处于冻结状态，需要交易才能解冻
 
-<a href="http://reg.toshare.club/register?inviteCode=cl9m0r" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210429071232260.png" width="240px" /></a>
-
-
 ## OKEx　交易所
 - https://www.okex.win/join/7404696
 - 通过活期或定期存款来获取收益，与质压挖矿类似
