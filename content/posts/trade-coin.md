@@ -38,6 +38,11 @@ W全球站免费领NIUB
 注册并实名即送20万DOG邀请好友实名并交易DOG满10USDT，邀请者和被邀请者均可获得100万DOG奖励，邀请者父级奖励20万DOG。
 注：所有奖励三天内到账, 活动内容请参考官方通知，我的这个网页可能不能及时更新。
 
+## bione 交易所
+- https://m.bione.me/zh_CN/register?inviteCode=QWQLWEAQ
+- 邀请码： QWQLWEAQ
+- 本人注册时送了5000 PUP
+
 ## coinbene
 - https://www.coinbene.ren/auth/register?hash=3Nbfvl1
 - Invitation code: 3Nbfvl1
