@@ -67,6 +67,10 @@ Catcoin (猫猫币) 是一个使用 RandomX 算法的去中心化货币，与狗
 - 领取方法：在网页下方, 点击Telegram, 进入到电报群后按提示领取,每天到此电报群领币
 - 此币可交易
 
+## Gram
+- https://GramFree.cc/?r=16044822
+- GRAM/USDT: https://www.digifinex.com/en-ww/trade/USDT/GRAM
+
 ## 注意事项
 - 如果提示验证码错误，尝试别的浏览器
 - 不对平台的稳定性做任何保证
