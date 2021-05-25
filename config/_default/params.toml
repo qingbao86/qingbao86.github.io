@@ -112,8 +112,8 @@ disqus_shortname = "passive-income-1"
 commento = false
 
 [telegram]
-  enable = false
-  siteId = ""
+  enable = true
+  siteId = "https://t.me/joinchat/RJPTz24SoXwyYTEx"
   dataLimit = 5
 
 [gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
@@ -160,7 +160,7 @@ commento = false
 
 [socialOptions]
   email = "yubaoshare@gmail.com"
-  twitter = "twitter.com/home"
+  twitter = ""
   phone = ""
   facebook = ""
   github = ""
@@ -173,7 +173,7 @@ commento = false
   linkedin = ""
   pinterest = ""
   stack-exchange = ""
-  telegram = ""
+  telegram = "https://t.me/joinchat/RJPTz24SoXwyYTEx"
   steam = ""
   weibo = ""
   douban = ""

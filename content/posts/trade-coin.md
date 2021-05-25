@@ -80,6 +80,16 @@ W全球站免费领NIUB
 - 送矿机，免费挖2个月
 - 送4000USD，不过处于冻结状态，需要交易才能解冻
 
+## Obpulus  欧贝
+- Ref code: 20645964
+- Download: https://obetchat.com/android.html
+- 可以提现，可以交易
+
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210514120435076.png" width="240px" />
+
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210516112927270.png" width="240px" />
+
+
 ## OKEx　交易所
 - https://www.okex.win/join/7404696
 - 通过活期或定期存款来获取收益，与质压挖矿类似
