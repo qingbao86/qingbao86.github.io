@@ -15,6 +15,13 @@ draft: false
 
 <!--more-->
 
+## MVU
+- Referral Code: b6295e48 
+- Refferral Link: https://r.mvu.app/?invite=b6295e48 
+- 注册后会得到 10MH/s 的ETH挖矿算力
+- 可以提现
+- ETH, BTC
+
 ## mineex
 - https://mineex.biz/ref/qingbao
 - BTC, DOGE, ETH, ...
