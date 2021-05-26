@@ -121,6 +121,10 @@ W全球站免费领NIUB
 賺的歸你虧的派網賠： https://www.pionex.com/zh-TW/sign/ref/XC4gZE6n
 - 邀請碼: XC4gZE6n
 
+## coinbase
+- https://www.coinbase.com/join/liu_t2l
+- You’ll both receive CN¥63.94 in Bitcoin when they buy or sell CN¥639.35 or more on Coinbas 
+
 ## Hcoin 好币
 - https://www.hcoin86.me/j/p1dpp
 
