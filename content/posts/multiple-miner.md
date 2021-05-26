@@ -7,11 +7,17 @@ description: 多币种云挖矿平台"
 draft: false
 ---
 
-## mineex
-- https://mineex.biz/ref/qingbao
+## minexo
+- https://minexo.io/ref/qingbao
+- 注册即送400GH/s的BTC挖矿算力
+- 可以提现
 - BTC, DOGE, ETH, ...
 
 <!--more-->
+
+## mineex
+- https://mineex.biz/ref/qingbao
+- BTC, DOGE, ETH, ...
 
 ## Rollercoin
 - https://rollercoin.com/?r=knl79zam
