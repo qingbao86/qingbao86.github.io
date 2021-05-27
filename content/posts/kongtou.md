@@ -71,6 +71,11 @@ Catcoin (猫猫币) 是一个使用 RandomX 算法的去中心化货币，与狗
 - https://GramFree.cc/?r=16044822
 - GRAM/USDT: https://www.digifinex.com/en-ww/trade/USDT/GRAM
 
+## BTT token
+I've found this amazing bot where you can earn free BTT token:
+- https://t.me/Btt_Earners_Bot?start=06753414470
+Simply click on my personal link and start earning free BTT token like me!
+
 ## 注意事项
 - 如果提示验证码错误，尝试别的浏览器
 - 不对平台的稳定性做任何保证
