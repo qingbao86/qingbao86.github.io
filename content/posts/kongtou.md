@@ -11,6 +11,10 @@ draft: false
 - OKFarm, OKExChain首批聚合挖矿平台,挖矿利益最大化,就选OKFarm,现登记就领取 3000 个OKFT,预计未来价值100美金以上.
 - 地址: http://OKFarm.org/kt?i=84045 
 
+## 美国OCC主网，马斯克150万亿全球空投
+每邀请10名用户，再空投100,000,000枚空投。
+邀请链接：https://www.lianyi.io/airdrop/index.html?t=0x9211087ce9c678cc9defe31707c306af02d547aa
+
 <!--more-->
 
 ## TGC舔狗币正在空投
