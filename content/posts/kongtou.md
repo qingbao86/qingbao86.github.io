@@ -17,10 +17,6 @@ draft: false
 
 <!--more-->
 
-## TGC舔狗币正在空投
-- TGC舔狗币正在空投，打开空投地址，登记ETH地址，获得1,000,000TGC
-- https://tiangoucoin.github.io/tiangoucoin?invite=QY5J9K581L8SDEQEM1
-
 ## Catcoin 猫猫币
 - https://catcoin.link/1579828
 

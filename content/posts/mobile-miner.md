@@ -160,15 +160,6 @@ Use my referral code: QINGBAO
 <a href="https://play.google.com/store/apps/details?id=com.reflextoken.cloudmining" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428215048946.png"  width="240px" /></a>
 
-## Ripple Bank
-- http://www.sunflower.news/gwdxdp?bcfhjvxF
-- Invite code (推荐码): 35739159
-- 注册时注意手机号的格式
-- 每天签到
-- 免费挖瑞波币
-
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210508122735416.png" width="240px" />
-
 ## 賞幣
 - 只要步行就可以免費換取虛擬貨幣，立即下載「賞幣」吧
 - https://coinluckydraw.com

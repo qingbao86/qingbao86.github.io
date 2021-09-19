@@ -7,20 +7,14 @@ description: 多币种云挖矿平台"
 draft: false
 ---
 
-## minexo
-- https://minexo.io/ref/qingbao
-- 注册即送400GH/s的BTC挖矿算力
-- 可以提现
-- BTC, DOGE, ETH, ...
-
-<!--more-->
-
 ## MVU
 - Referral Code: b6295e48 
 - Refferral Link: https://r.mvu.app/?invite=b6295e48 
 - 注册后会得到 10MH/s 的ETH挖矿算力
 - 可以提现
 - ETH, BTC
+
+<!--more-->
 
 ## mineex
 - https://mineex.biz/ref/qingbao

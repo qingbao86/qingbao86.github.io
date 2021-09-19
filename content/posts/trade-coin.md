@@ -74,12 +74,6 @@ W全球站免费领NIUB
 - 质压挖矿
 - 可交易
 
-## QZ交易所 
-- http://reg.toshare.club/register?inviteCode=cl9m0r
-- 邀请码: cl9m0r
-- 送矿机，免费挖2个月
-- 送4000USD，不过处于冻结状态，需要交易才能解冻
-
 ## Obpulus  欧贝
 - Ref code: 20645964
 - Download: https://obetchat.com/android.html
