@@ -38,13 +38,6 @@ draft: false
 <a href="https://play.google.com/store/apps/details?id=com.cloud.earning" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428213745319.png" width="240px" /></a>
 
-## QZ交易所 
-- http://reg.toshare.club/register?inviteCode=cl9m0r
-- 邀请码: cl9m0r
-- 送矿机，免费挖2个月
-- 注册即送送4000USD，不过处于冻结状态，需要交易才能解冻
-- 可以提现，可以交易
-
 ## Obpulus  欧贝
 - Ref code: 20645964
 - Download: https://obetchat.com/android.html
@@ -79,14 +72,6 @@ draft: false
 <a href="https://bee1314.com/sc/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428213409314.png" width="240px"/></a>
 
-## bihang 币行
-- http://bihang.chainbank.top/index.html#/?code=LPBlxmg
-- 邀请码: LPBlxmg
-- 挖BHT, 每天可以挖一个，应该昌可以交易的
-
-<a href="http://bihang.chainbank.top/index.html#/?code=LPBlxmg" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210502002826294.png" width="240px" /></a>
-
 
 ## Ant network 
 - Ant network: https://play.google.com/store/apps/details?id=com.creativeoffice.ripcoin&hl=tr&gl=US
@@ -115,6 +100,16 @@ Use my referral code: QINGBAO
 
 <a href="https://eaglenetwork.app" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428212419821.png" width="240px" /></a>
+
+## one network
+- https://mine.vikione.com/auth?invite=qingbao
+- 酷似Pi network
+- 每小时挖矿速度为 1.800 ONE/hr
+- 每6个小时激活一次
+
+<a href="https://mine.vikione.com/auth?invite=qingbao" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428220301623.png" width="240px" ></a>
+
 
 ## Alpha Network
 - https://play.google.com/store/apps/details?id=com.alphanetwork.alphaminer&hl=zh&gl=US
@@ -164,15 +159,6 @@ Use my referral code: QINGBAO
 
 <a href="https://play.google.com/store/apps/details?id=com.reflextoken.cloudmining" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428215048946.png"  width="240px" /></a>
-
-## one network
-- https://mine.vikione.com/auth?invite=qingbao
-- 酷似Pi network
-- 每小时挖矿速度为 1.800 ONE/hr
-- 每6个小时激活一次
-
-<a href="https://mine.vikione.com/auth?invite=qingbao" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/yubaoliu/assets@image/image-20210428220301623.png" width="240px" ></a>
 
 ## Ripple Bank
 - http://www.sunflower.news/gwdxdp?bcfhjvxF
@@ -279,10 +265,6 @@ Hey I have Installed this App. Fastest Dogecoin Faucet on Play Store
 ## probit
 - https://www.probit.com/r/99183013
 - 交易挖矿
-
-## 领主
-- 可以放大一下再扫描
-{{< img src="/images/lingzhu.jpg" title="" caption="" alt="lingzhu" width="240px" position="center" >}}
 
 ## 超级算力
 - http://app.chaojisuanli.com/addons/invite/invite/inviteShareView?user_id=99442
